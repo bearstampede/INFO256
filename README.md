@@ -13,15 +13,17 @@ an effort to glean some information that should lead to correlations between wor
 and specific events in time. 
 
 This directory should contain the following:
+
+<pre>
 -.py files
-  -data extractor
-  -main algorithm (LDA)
-  -any additional algorithms (atomic, i.e. frequency distributions)
+   -data extractor
+   -main algorithm (LDA)
+   -any additional algorithms (atomic, i.e. frequency distributions)</pre><pre>
 -.txt files
   -progress/changelog
   -output files (freq. dist. files, wordcounts, misc. statistics)
-  -final writeup
+  -final writeup</pre><pre>
 -.zip files
   -corpora majoris--the wikileaks cables
   -"pickled" cables
-  -data extracted into text files, zipped for convenience
+  -data extracted into text files, zipped for convenience</pre>
