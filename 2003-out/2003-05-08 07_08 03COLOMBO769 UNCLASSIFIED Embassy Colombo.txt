@@ -1,0 +1,219 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+080708Z May 03UNCLAS SECTION 01 OF 03 COLOMBO 000769 
+ 
+SIPDIS 
+ 
+STATE FOR ECA/PE/V/P-SUSAN LOCKWOOD/AZZA ZAKI; INFO 
+ECA/PE/V/G/N-ALICE SHIFFLETT; SA/PD 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL KPAO OEXC
+SUBJECT: FY-2003 IV PROGRAM: MALDIVIAN NOMINATION FOR 
+MRP ON "ACCOUNTABILITY IN GOVERNMENT AND BUSINESS" 
+(VERSION 2): JULY 10-31, 2003 
+ 
+REF: (A) SLOCKWOOD/RSANDANAYAKE E-MAIL OF 5/6/03, (B) 
+ 
+STATE 07814, (C) 02 COLOMBO 02170, (D) 02 COLOMBO 01900 
+ 
+¶1. POST NOMINATES MR. MUHSIN ABDULLA, DIRECTOR FINANCE, 
+MALDIVES TRANSPORT AND CONTRACTING COMPANY (PLC) LTD., 
+FOR PARTICIPATION IN SUBJECT PROJECT.  MR. MUHSIN WAS 
+ORIGINALLY NOMINATED FOR MRP ON "ENTREPRENEURSHIP IN 
+THE U.S." BUT WOULD LIKE TO BE CONSIDERED FOR THIS 
+PROJECT. 
+ 
+¶2. NOMINATION IS AS FOLLOWS: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: rscmb@pd.state.gov 
+TRANSMITTING-POST: PAS  Colombo 
+TRANSMITTING-POST-ID: 2929 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGN 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 94 
+ECA-PROJ-NO: 
+PROJ-NAME: Accountability in Government and Business 
+(Version 2) - July 10-31, 2003  (Maldives) 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Multi-Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2003 
+DEPART-POST: 07/07/2003 
+SESSION-DATE: 07/10/2003 
+RETURN-POST: 08/03/2003 
+NO-OF-PART: 1 
+RANK-ORDER: 2 
+START MEMO POST-OBJ: 
+This nomination is in support of the MPP goal on 
+Economic Development 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1039 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: MRP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 2929 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Anti-Corruption 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Abdul 
+M-NAME: Muhsin 
+L-NAME: ABDULLA 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Maldives Transport and Contracting Comp. 
+M-ADDR2: 181 Boduthakurufaanu Magu 
+M-ADDR3: 
+M-CITY: Male 
+M-STATE: 
+M-CNTRY: Maldives 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: (960) 32-6822 
+M-FAX: 
+M-EMAIL: 
+M-CNTRY-ID: MV 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 04/15/1959 
+MAR-STAT: M 
+BIRTH-CITY: Male 
+BIRTH-CNTRY: Maldives 
+CITIZ-CNTRY: Maldives 
+RES-CNTRY: Maldives 
+START MEMO POSITION: 
+Director Finance, Maldives Transport and Contracting 
+Company (PLC) Ltd., April 1996- to date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1984-96 - Accountant; Senior Secretary Finance; Chief 
+Accountant; and Deputy Director Finance, at 
+Maldives Transport and Contracting Company (PLC) Ltd. 
+1978-84 - Audit Accountant/Office Assistant, Government 
+Audit Office, Male 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Singapore - 1994-96 - For Studies 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Management Training, University of Singapore, 1996 
+Diploma in - System Manager, General Ledger, Financial 
+Statement, Report Writing, and Order Processing, 
+Solomon Software (Accounting), Singapore, 1994-95 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+Does not consume pork and alcohol 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: unkown 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START MEMO NOM-POST-OBJ: 
+This nomination is in support of MPP goal on Economic 
+Development 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Stephen Holgate 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Muhsin who has previously worked as an acccountant 
+for the government now works as the Director, Finance 
+at the largest public company in the Maldives, the 
+Maldives Transport and Contracting Company (PLC) Ltd. 
+(MTCC).  MTCC, which has shares owned by the 
+government, banks, other companies and individuals, is 
+involved in general trading, sea transporting, building 
+construction, island harbor dredging, equipment rental 
+and real estate.  They are also agents for a number of 
+products with reputed brand names. 
+Mr. Muhsin, as the Director Finance, plays a vital role 
+in keeping financial discipline in the biggest from 
+Maldivian standards.  Although he has had exposure to 
+financial field in countries like Singapore and Sri 
+Lanka he has not had the opportunity to get any 
+exposure to the U.S. or any other western country.  Mr. 
+Muhsin will be a strong private sector candidate from 
+the Maldives for an IV program.  This will provide him 
+the opportunity to see for himself and understand how 
+ethical standards are defined, monitored and enforces 
+in the government and the private sector in the U.S. 
+He will be able to bring in financial decipline and 
+accountability in private sector in the Maldives. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Public Affairs 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: Yes 
+HOME-HOSP?: Yes 
+E-I-TYPE: 
+NOMINEE-ID: 128 
+PERSON-ID: 84 
+BIRTH-CNTRY-ID: MV 
+CITIZ-CNTRY-ID: MV 
+RES-CNTRY-ID: MV 
+FIRST-LANG-ID: 
+E-I-TYPE-ID: 
+NOM-POST-ID: 2929 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS: N 
+DS2019-ACTION: 0 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3. PLEASE ADVISE ACCEPTANCE OF THIS NOMINATION. 
+WILLS

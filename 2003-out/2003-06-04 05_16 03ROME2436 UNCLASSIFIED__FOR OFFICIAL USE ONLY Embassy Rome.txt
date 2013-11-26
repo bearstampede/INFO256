@@ -1,0 +1,128 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS  ROME 002436 
+ 
+SIPDIS 
+ 
+ 
+SENSITIVE 
+ 
+STATE PASS USTR 
+STATE PASS FTC 
+DEPT FOR EUR/WE, EUR/ERA, EB/CIP 
+USDOC 4212/ITA/MAC/OEURA/CPD/DDEFALCO 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ETRD IT EUN
+SUBJECT: PNR, SAFE HARBOR: ITALY PRIVACY DISCUSSIONS 
+ 
+(U) This cable is sensitive but unclassified.  Please 
+protect accordingly.  Not for Internet distribution. 
+ 
+Ref: Rome 1528 
+ 
+¶1. (SBU) Summary: Secretary General of the Italian 
+Privacy Authority Buttarelli expressed strong opposition 
+to the interim PNR agreement in a meeting with Econcouns 
+May 27. Buttarelli believes that Commission officials 
+made a mistake in agreeing to PNR as this violates 
+national laws.  The principal problems Buttarelli sees 
+relate to a foreign country's authorities being allowed 
+directly to access data held in Italy, as well as the 
+subsequent use of such data.  Buttarelli is, however, 
+optimistic that a satisfactory compromise may be reached 
+in the fall. Separately, regarding Safe Harbor, 
+Buttarelli provided statistics showing that the system is 
+seldom used by Italian companies and may soon be 
+obsolete.  End summary. 
+ 
+PNR 
+--- 
+ 
+¶2. (SBU) May 27 Econ counselor and Econ specialist met 
+with Italian Privacy Authority Secretary General Giovanni 
+Buttarelli to discuss Italy's position on PNR and Safe 
+Harbor.  The Italian Privacy Authority has been very 
+critical of the interim PNR agreement negotiated between 
+the U.S. and EU, and how this was handled by the 
+Commission.  Italian Privacy Authority chairman, Stefano 
+Rodota, recently wrote the Commission to this effect. 
+Buttarelli said that Brussels authorities had made a 
+mistake when they signed the PNR agreement, since this 
+violates national laws.  He also maintained that U.S. 
+officials have been misled regarding the value of a U.S.- 
+EU joint statement. This is not a treaty and may not 
+overrule national laws. 
+ 
+¶3. (SBU) Buttarelli indicated that one key problem is 
+that the PNR agreement would allow a foreign government 
+to do what national authorities are not allowed to do. 
+He pointed out that "not even the head of the Italian 
+police has the authority to access flight information." 
+Buttarelli told EconCouns that only very recently has a 
+bill been presented in the Italian parliament to allow 
+police officers "who are physically located in airports" 
+to access flight information.  According to Buttarelli, 
+it is unacceptable and illegal that a U.S. authority, 
+"and not even necessarily a law enforcement official," be 
+allowed to access, from the U.S., data held in Italy. One 
+partial solution would entail relevant data being 
+transferred from Italy to the U.S. (as opposed to being 
+accessed from the U.S.)  However, in his view, even then 
+there would remain the problem of how the data is handled 
+and for what purposes it is used.  Adding to Italy's 
+concern is the fact that other countries, such as Canada, 
+Mexico and Australia, are considering similar measures to 
+those in the U.S.  This would be even more unworkable, he 
+stated. 
+ 
+¶4. (SBU) Buttarelli, however, expressed optimism 
+regarding a possible compromise agreement.  He expects 
+that there will be a series of proposals tabled and that, 
+gradually, a compromise satisfactory to all would be 
+reached.  In late June or July, the EU Privacy 
+Authorities and the member states will meet to express an 
+opinion on proposals.  Buttarelli believes that an 
+informal agreement may be reached by September, but that 
+it is unlikely to be ratified by the EU parliament before 
+year's end. 
+ 
+¶5. (SBU) Regarding the related AFIS issue, Buttarelli 
+indicated that he has been approached by the ATAA (Air 
+Transport Association of America) regarding a possible 
+meeting for EU Privacy authorities in July in Washington. 
+Buttarelli indicated that he thought this was a good 
+idea, especially if appropriate USG officials either 
+joined in the ATAA meetings or held separate meetings 
+with the privacy authorities.  He was looking at a 
+possible two-day trip in early July.  One day could be 
+dedicated to discussion of AFIS/PNR.  A second half-day 
+could be dedicated to discussion of safe harbor. 
+ 
+ 
+Safe Harbor 
+----------- 
+ 
+¶6. (SBU) Regarding Safe Harbor, Buttarelli believes that 
+this may be a good time to review the matter.  At the 
+same time, however, he quoted a recent survey conducted 
+among Italian firms, which indicated that 85 percent of 
+Italian companies transferring data to the U.S. adopt 
+consensus methods; most others use contracts, and only 3 
+percent rely on Safe Harbor.  Buttarelli also told 
+EconCouns that a letter from U/S Aldonas had been 
+received in Brussels as a follow-up to the EU 
+Authorities' visit to Washington in 2002 (reftel), but 
+that the content was not substantive.  He noted that a 
+DVC promised in the letter never took place. 
+ 
+¶7. (SBU) Comment: Despite his opposition to PNR on 
+principal, Buttarelli appeared optimistic regarding a 
+possible compromise solution this year.  We are also 
+encouraged by his willingness to accept ATAA's invite and 
+by his desire to set up a July meeting with appropriate 
+USG officials.  Regarding Safe Harbor, Buttarelli remains 
+as critical as he has been from the start, and is 
+signaling that the system may become obsolete rapidly 
+through use of alternative (better, in his view) tools. 
+Sembler 
+NNNN 
+	2003ROME02436 - Classification: UNCLASSIFIED

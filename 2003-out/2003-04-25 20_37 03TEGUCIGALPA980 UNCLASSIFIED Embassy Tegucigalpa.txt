@@ -1,0 +1,44 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS TEGUCIGALPA 000980 
+ 
+SIPDIS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS ECON ETRD HO
+SUBJECT:  WIRELESS INTERNET SURVEY: HONDURAS 
+ 
+REF: SECSTATE 85946 
+ 
+¶1. In response to reftel request, Post provides the 
+following information regarding the use of Wireless 
+Fidelity (Wi-Fi) technologies in Honduras. 
+ 
+¶2. According to the National Telecommunications 
+Commission (Conatel), Honduras has not yet allocated 
+any unlicensed radio-frequency spectrum for use by Wi- 
+Fi and similar wireless technologies.  Equipment 
+utilizing broadband spectrum technologies, such as Wi- 
+Fi, are subject to a general license granted through 
+Conatel's resolution NR016/00.  Honduran telecom norm 
+does not make any distinction between indoor and 
+outdoor use for radio-frequency allocations.  Effective 
+radiated power radio-frequency devices, with a rate 
+equal or less than 10 milliwatts, are subject to a 
+general license allowing them to operate freely. 
+ 
+¶3. In Honduras, Wi-Fi systems can be used without a 
+license, as equipment utilizing broadband spectrum 
+technologies are only subject to a general license, 
+granted through Conatel's resolution NR016/00. 
+ 
+¶4. Wi-Fi systems can be used for commercial purposes as 
+long as the operator has an exploitation permit for 
+public use. 
+ 
+¶5. At present, there are no commercial Wi-Fi networks 
+that provide service to the public operating in 
+Honduras.  In the event that Wi Fi systems are used, 
+these would only be allowed for data transmission 
+operations connected via satellite or cable TV 
+networks. 
+ 
+Pierce

@@ -1,0 +1,233 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+270426Z Mar 03UNCLAS SECTION 01 OF 03 COLOMBO 000518 
+ 
+SIPDIS 
+ 
+STATE FOR ECA/PE/V/G/N-ALICE SHIFFLETT; SA/PD 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL KPAO OEXC
+SUBJECT: FY-03 SA/RP ON "WATER RESOURCES MANAGEMENT": 
+APRIL 14-MAY 2, 2003:SRI LANKAN GRANTEE RANJITH SEIMON 
+ 
+REF: (A) ASHIFFLETT/RSANDANAYAKE E-MAIL OF 3/25/03, 
+ 
+(B) COLOMBO 000488 
+ 
+¶1. GRANTEE SEIMON ACCEPTS INVITATION TO PARTICIPATE IN 
+SUBJECT PROJECT. 
+ 
+¶2. HIS COMPLETE BIODATA FOLLOWS: 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: rscmb@pd.state.gov 
+TRANSMITTING-POST: PAS  Colombo 
+TRANSMITTING-POST-ID: 2929 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGN 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 79 
+ECA-PROJ-NO: 
+PROJ-NAME: SA-RP: Water Resources Management - April 
+14-May 2, 2003 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Regional 
+PROG-TYPE: IV Grant Visitor 
+FY: 2003 
+DEPART-POST: 04/11/2003 
+SESSION-DATE: 04/14/2003 
+RETURN-POST: 05/18/2003 
+NO-OF-PART: 1 
+RANK-ORDER: 1 
+START MEMO POST-OBJ: 
+This nomination is in support of MPP goal on "Economic 
+Development" 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1039 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: RP 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 2929 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Environment 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Mahavidanalage 
+M-NAME: Ranjith T. Seimon 
+L-NAME: JAYAWARDANA WICKRAMARATNA 
+SUFFIX: 
+POSITION-CODE: 114 
+PRINCIPAL?: Yes 
+M-ADDR1: Ministry of Irrigation 
+M-ADDR2: and Water Management 
+M-ADDR3: 500 T.B. Jayah Mawatha 
+M-CITY: Colombo 10 
+M-STATE: 
+M-CNTRY: Sri Lanka 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: (94-1) 687-348 
+M-FAX: (94-1) 687-141 
+M-EMAIL: imbulana@eureka.lk 
+M-CNTRY-ID: CE 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 11/03/1050 
+MAR-STAT: M 
+BIRTH-CITY: Colombo 
+BIRTH-CNTRY: Sri Lanka 
+CITIZ-CNTRY: Sri Lanka 
+RES-CNTRY: Sri Lanka 
+START MEMO POSITION: 
+Director (Engineering), Ministry of Irrigation, April 
+2002- to date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+June 1997-March 2002 - Deputy Director (Engineering) 
+Ministry of Irrigation 
+1996-May 1997 - Chief Irrigatiaon Engineer, Regional 
+Development and Construction Branch, Department of 
+Irrigation 
+September 1982-December 1995 - Worked as Irrigation 
+Engineering in various branches of the Department of 
+Irrigation 
+1976-August 1982 - Technical Assistant, Forest 
+Department 
+1972-75 - Assistant Foreman, State Development and 
+Construction Corporation 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Taiwan - 1999 (one week) - Attendned a seminar on 
+irrigation 
+Thailand - 1995 (two months) - Attended a training 
+program sponsored by Asian Institute of Technology 
+India - 1991-92 - For Studies 
+Malaysia/Thailand - 1990 (two weeks) - Visited 
+irrigation projects 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Civil Engineering Degree, Institution of Engineers, Sri 
+Lanka, 1982 
+Civil Engineering (Charter) Institution of Engineers, 
+Sri Lanka, 1986 
+Master's Degree in Hydrology, University of Roorkee, 
+India, 1992 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member, Institute of Engineer of Sri Lanka 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Sinhala 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START MEMO NOM-POST-OBJ: 
+This nomination is in support of MPP goal on "Economic 
+Development" 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Bruce A. Lohof 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Seimon is the Director (Engineering) of the 
+Ministry of Irrigation.  His duties include assisting 
+the Ministry Secretary in advising the Minister on 
+formulation of irrigation policy matters, coordination 
+of activities of the Irrigation Department which is the 
+institution providing irrigation facilities to the 
+farmer community.  Activities include formulation of 
+Water Resources Development Projects comprising of 
+investigations, designs and water balance studies and 
+Water Resources Management. 
+In additon, Mr. Seimon serves in the Technical 
+Evaluation Committee to evaluate Environmental Impact 
+Assessment of Irrigation and Water Resources 
+Development Projects. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Public Affairs Section 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: 
+NOMINEE-ID: 112 
+PERSON-ID: 113 
+BIRTH-CNTRY-ID: CE 
+CITIZ-CNTRY-ID: CE 
+RES-CNTRY-ID: CE 
+FIRST-LANG-ID: SI 
+E-I-TYPE-ID: 
+NOM-POST-ID: 2929 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 14.0805 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: DOS 
+US-AGENCY-AMT1: 8500 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3. GRANTEE  SEIMON'S PASSPORT DETAILS FOLLOW: 
+SURNAME: JAYAWARDANA WICKRAMARATNA MAHAVIDANALAGE 
+OTHER NAMES: RANJITH THOMAS SEIMON 
+PASSPORT NUMBER: M2011033 
+DATE OF BIRTH: 03/11/1950 (NOVEMBER 03, 1950) 
+PLACE OF BIRTH: COLOMBO (SRI LANKA) 
+DATE OF ISSUE: 19/04/2001 (APRIL 19, 2001) 
+PLACE OF ISSUE: COLOMBO (SRI LANKA) 
+DATE OF EXPIRY: 19/04/2006 (APRIL 19, 2006) 
+ 
+¶4. DS-2019 INFORMATION HAS BEEN ENTERED INTO EVDB. 
+PLEASE ADVISE WHEN TO EXPECT DS-2019 FORMS FOR 
+GRANTEE'S U.S. VISA. 
+ 
+¶5. WOULD APPRECIATE RECEIVING PROGRAM DETAILS SOONEST. 
+WILLS

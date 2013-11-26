@@ -1,0 +1,299 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+131111Z May 03UNCLAS SECTION 01 OF 04 COLOMBO 000809 
+ 
+SIPDIS 
+ 
+STATE FOR ECA/PE/V/F/A, ECA/PE/V/G/N-ALICE SHIFFLETT; 
+SA/PD 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL KPAO OEXC
+SUBJECT: FY-2003 VOLUNTARY VISITOR PROGRAM: SRI LANKAN 
+NOMINATION 
+ 
+ 
+¶1. COLOMBO REQUESTS A FUNDED VOLVIS PROGRAM FOR MR. 
+IQBAL ATHAS, CONSULTANT EDITOR AND DEFENCE 
+CORRESPONDENT, "THE SUNDAY TIMES" (INDEPENDENT ENGLISH 
+WEEKENDER, NATIONAL CIRCULATION). ATHAS IS VISITING 
+WASHINGTON TO ATTEND THE INVESTIGATIVE REPORTERS AND 
+EDITORS ANNUAL CONFERENCE.  AS A TARGET OF OPPORTUNITY 
+POST WISHES TO OFFER MR. ATHAS A 10-DAY VOLUNTARY 
+VISITOR PROGRAM ON U.S. GOVERNMENT AND ITS POLICIES, 
+ESPECIALLY IN DEFENSE, NATIONAL SECURITY, FOREIGN 
+POLICY AND ANTI-TERRORISM, STARTING JUNE 9.  PLEASE 
+ADVISE IF THIS PROJECT CAN BE ACCEPTED FOR PROGRAMMING. 
+ 
+¶2. THE NOMINEES' BIO DATA, JUSTIFICATION AND PROGRAM 
+SUGGESTIONS IN EVDB FORMAT FOLLOWS: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: rscmb@pd.state.gov 
+TRANSMITTING-POST: PAS  Colombo 
+TRANSMITTING-POST-ID: 2929 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VGN 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 81 
+ECA-PROJ-NO: 
+PROJ-NAME: Voluntary Visitor - ATHAS, Alavy Iqbal 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Individual 
+PROG-TYPE: IV Grant Visitor 
+FY: 2003 
+DEPART-POST: 06/02/2003 
+SESSION-DATE: 
+RETURN-POST: 06/29/2003 
+NO-OF-PART: 1 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+This nomination is in support of MPP goal on 
+"Democracy".  As a leading journalist Mr. Athas should 
+be provided with wide exposure to U.S. government 
+policies, especially in foreign policy, defense and 
+national security, and anti-terrorism. 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+As stated in the justification, Mr. Athas should be 
+provided with wide exposure to U.S. government and its 
+policies, especially in defense, national security, 
+foreign policy, and anti-terrorism.  His program could 
+include the following: Meet with officials of the 
+Congressional Foreign Relations Committee to get 
+comprehensive overview of U.S. foreign policy; provide 
+an overview of U.S. political process, the U.S. federal 
+system; briefings on U.S. government's goal of 
+democracy building and human rights promotion; an 
+overview of U.S. national security policy and vital 
+security interests; and briefings on U.S. initiatives 
+to combat international terrorism and responses to 
+threats of terrorism.  He should also meet with 
+representatives of the National Security Council, 
+Department of Defense, Department of Homeland Security, 
+Office of the Coordinator for Counter Terrorism.  He 
+should visit a state capitol to see how the federal 
+system works at the state level. 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1039 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: IND 
+PROG-TYPE-ID: 29 
+NOMINATING-POST-ID: 2929 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Conflict Resolution 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Alavy 
+M-NAME: Iqbal 
+L-NAME: ATHAS 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: "Jasmin Court" 
+M-ADDR2: 60/1 Wijerama Lane 
+M-ADDR3: Udahamulla 
+M-CITY: Nugegoda 
+M-STATE: 
+M-CNTRY: Sri Lanka 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: (94-1) 803-923 
+M-FAX: (94-1) 801-196 
+M-EMAIL: athas@sltnet.lk 
+M-CNTRY-ID: CE 
+M-ADDRTYPE: H 
+GENDER: M 
+DOB: 09/01/1944 
+MAR-STAT: M 
+BIRTH-CITY: Colombo 
+BIRTH-CNTRY: Sri Lanka 
+CITIZ-CNTRY: Sri Lanka 
+RES-CNTRY: Sri Lanka 
+START MEMO POSITION: 
+Consultant Editor - Defence Correspondent, The Sunday 
+Times, 1995- to date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Colombo correspondent for CNN, Jane's Defence Weekly 
+and The Sunday Times, London 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1994 - Associate Editor, Sunday Leader 
+1965-90 - served the now defunct Independent Newspapers 
+Ltd., in various positions and ended up as the Deputy 
+Editor of Sun and Weekend 
+Served for 14 years as Colombo correspondent of London 
+based Worldwide Television News (WTN), until it was 
+purchased by Associated Press (APTN) 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+1988 - To participate in a Multi-Regional Project on 
+"The 1988 Election Campaign" 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+He has travelled extensively on business and vacation. 
+ His travel includes: 
+U.K. France, Cuba, China, Hong Kong, Maldives, India, 
+Korea, Japan, Singapore, Thailand, Nepal, Malaysia, 
+Indonesia and Italy 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Commonwealth Press Union, U.K., May-August 1978 - 
+Fellowship 
+Oxford University, U.K., June 1978 - Course on 
+Commonwealth and International Affairs 
+Thomson Foundation Editorial Study Center, U.K., 
+Workshop 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member, International Consortium of Investigative 
+Journalists (ICIJ) 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Tamil 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Sinhala 
+OTHER-LANG-ID: SI 
+READ: 4 
+SPEAK: 4 
+COMP: 4 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+This nomination is in support of MPP goal on 
+"Democracy".  As a leading journalist Mr. Athas should 
+be provided with wide exposure to U.S. government 
+policies, especially in foreign policy, defense and 
+national security, and anti-terrorism. 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+As stated in the justification, Mr. Athas should be 
+provided with a wide exposure to U.S. government and 
+its policies, especially in defense, national security, 
+foreign policy and anti-terrorism.  His program could 
+include the following: Meet with officials of the 
+Congressional Foreign Relations Committee to get 
+comprehensive overview of U.S. foreign policy; provide 
+an overview of U.S. political process, the U.S. federal 
+system; briefings on U.S. government's goal of 
+democracy building and human rights promotion; an 
+overview of U.S. national security policy and vital 
+security interests; and briefings on U.S. initiatives 
+to combat international terrorism and responses to 
+threats of terrorism.  He should also meet with 
+representatives of the National Security Council, 
+Department of Defense, Department of Homeland Security, 
+Office of the Coordinator for Counter Terrorism.  He 
+should visit a state capitol to see how the federal 
+system works at the state level. 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+To have a thorough understanding of U.S. federal 
+system, foreign policy formulation, defense policy and 
+security concerns. 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+In addition to what have been incorporated in Post 
+recommendations, Post suggests Mr. Athas meet with 
+Robin Raphel of the National Defense University to 
+discuss a book project he has undertaken. 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Bruce A. Lohof 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mr. Athas is a very senior journalist in the Sri Lankan 
+print media who has specialized as a defence 
+correspondent.  He regularly contributes to the widely 
+read defence column in "The Sunday Times" newspaper. 
+In addition to being the defence correspondent, he is 
+also the Consultant Editor of this paper. 
+During the prolonged ethnic strife in Sri Lanka he 
+received threats from certain elements in the Armed 
+Services who did not take too kind to the revelations 
+in his column. 
+Recognizing his contributions in the field of 
+journalism New York-based Committee to Protect 
+Journalists (CPJ) awarded him the prestigious Press 
+Freedom Award in 1994.  The Editors' Guild of Sri Lanka 
+awarded him the 'Journalist of the Year 1998', and the 
+'Columnist of the Year 2001'.  He is the only Sri 
+Lankan journalist invited as a member in the 
+International Consortium of Investigative Journalists 
+(ICIJ). 
+Mr. Athas is visiting the U.S. to attend the 
+Investigative Reporters and Editors Annual Conference 
+to be held in  Washington from June 5-8 at the National 
+Press Club.  As a target of opportunity, post proposes 
+a 10-day funded Volvis program for this highly 
+respected Sri Lankan journalist on governmental affairs 
+and security issues.  Post believes that this proposed 
+Volvis program would provide him with a wide exposure 
+to U.S. government and its policies especially in 
+defense, national security, foreign policy, and anti- 
+terrorism.  This will result in multiplier effect as he 
+will use the newly acquired knowledge in his widely 
+read column.  If this proposal is accepted, Mr. Athas 
+will be available for programming in Washington from 
+June 9. 
+ 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Public Affairs Section 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: 
+NOMINEE-ID: 116 
+PERSON-ID: 119 
+BIRTH-CNTRY-ID: CE 
+CITIZ-CNTRY-ID: CE 
+RES-CNTRY-ID: CE 
+FIRST-LANG-ID: TC 
+E-I-TYPE-ID: 
+NOM-POST-ID: 2929 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3. PLEASE ADVISE ACCEPTANCE OF THIS NOMINATION. 
+WILLS

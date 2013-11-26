@@ -1,0 +1,353 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 05 HANOI 000335 
+ 
+SIPDIS 
+ 
+STATE PASS USTR FOR EBRYAN 
+STATE ALSO PASS USAID ANE AFERRARA and DMCCLUSKEY 
+TREASURY FOR OASIA 
+USDOC FOR 4431/MAC/IFP/OKSA/HPPHO 
+BANGKOK FOR USAID 
+ 
+SENSITIVE 
+ 
+E.O. 12958: N/A 
+TAGS: EFIN ECON EAID ETRD VM BTA FINREF SOE
+SUBJECT: VIETNAM'S BANKING SECTOR 
+ 
+REF: 03 HCMC 1157 
+ 
+SENSITIVE BUT UNCLASSIFIED - PLEASE HANDLE ACCORDINGLY. 
+ 
+¶1.  (SBU) SUMMARY: Vietnam's banking sector is presently 
+characterized by a few dominant state-owned commercial banks 
+(SOCBs), a number of comparatively small joint stock banks 
+(JSBs), and some foreign banks.  In recent years, the GVN 
+has undertaken a number of reforms, with the goals of 
+ensuring the banking system's stability, expanding services, 
+and rationalizing domestic resource allocation by ensuring 
+that they are dedicated to commercially viable activities. 
+The reform program focuses on four main areas - the 
+restructuring and commercialization of SOCBs, restructuring 
+of JSBs, meeting Vietnam's international commitments, and 
+improving the regulatory framework and enhancing 
+transparency.  Unfortunately, many areas of concern remain 
+largely unresolved.  Progress on restructuring the SOCBs is 
+sluggish.  Classification of non-performing loans (NPLs) has 
+improved, but deficiencies persist in both the accounting 
+and strategy.  Furthermore, the slow pace of SOE reform may 
+negate efforts to address this issue.  Foreign banks 
+continue to compete on an unequal footing with Vietnamese 
+banks.  Although directed lending has been largely removed 
+from the SOCBs, it continues to take place.  In addition, it 
+is now concentrated in institutions outside the formal 
+banking system, thus eliminating the ability to account for 
+total lending in Vietnam.  Finally, despite efforts to 
+strengthen the SBV, it remains weak and fragmented.  END 
+SUMMARY. 
+ 
+STATE-OWNED COMMERCIAL BANKS 
+---------------------------- 
+ 
+¶2.  (U) Vietnam's state-owned commercial banks (SOCBs) 
+dominate its financial sector, with the four largest SOCBs 
+representing around 70 percent of the system's total assets. 
+The Ministry of Finance (MOF) "owns" the SOCBs.  The GVN has 
+stated that it intends to preserve the domination of SOCBs 
+by developing them into commercially-oriented financial 
+intermediaries.  Towards this end, it has begun implementing 
+a restructuring plan for the four largest SOCBs.  In June 
+2003, SBV announced its plan to equitize the remaining SOCB, 
+the Mekong Housing Bank, between 2006 and 2010.  In 2005, a 
+plan for equitization is to be undertaken.  The preparations 
+are to include an independent financial and portfolio audit 
+based on IAS, a diagnostic assessment of its operations, and 
+a review of its external policy and legislative environment. 
+ 
+¶3.  (U) Over the past year, a number of developments have 
+increased the number of products and services offered to 
+clients of SOCBs and raised the share of their credit 
+allocated to the private sector.  (Note:  Despite this 
+increase, the private sector continues to complain about 
+lacking access to capital, and SOCBs remain extremely 
+cautious about lending to it, and do so only on a highly- 
+collateralized basis.  End Note.)  SOCBs still view state- 
+owned enterprises, especially large state-owned 
+corporations, as their core customers and give them priority 
+access to credit.  This credit is extended mostly on an 
+unsecured basis, relying on the government's support and 
+implied backing given to those companies.  Because financial 
+health and credit risk are not adequately assessed, credit 
+margins are not properly priced, which in turn may narrow 
+the banks profitability.  Even though their application 
+appears irregular, SOCBs have drafted credit manuals.  Due 
+to this weak credit risk analysis and unofficial ceilings, 
+most SOCBs are encountering difficulties implementing the 
+recent interest rate liberalization that allows banks to 
+freely determine the rates that they charge. 
+ 
+¶4.  (U) Vietnam chose to retain Vietnam Accounting Standards 
+(VAS) and not adopt International Accounting Standards 
+(IAS).  However, it has improved VAS, causing loan 
+portfolios to be reclassified based on rules that are close 
+international norms.  (Note: Previously, VAS simply counted 
+the amount of the missed loan payment.  Now, when a payment 
+is missed, banks must follow international practice and 
+count the entire loan amount as non-performing.  End Note.) 
+The four SOCBs also completed donor-funded IAS audits for 
+2000 and 2001 and improved loan loss provisioning.  They 
+began launching a computerized banking system pilot program 
+that will allow customers to withdraw money at any branch 
+instead of just the one where they opened their account. 
+¶5.  (SBU) Although the GVN and SOCBs made some progress on 
+resolving NPLs and improving capital adequacy, problems 
+especially persist in these areas.  The SBV alleges that the 
+SOCBs have resolved around 30 percent of their stock of NPLs 
+(identified as of December 2000).  However, the actual 
+percentage of NPLs remains difficult to estimate, because 
+many banks are now rescheduling and restructuring loans in 
+order to ensure that they meet their NPL targets.  Even 
+though the SBV has declined to estimate the amount of NPLs, 
+simply stating that restructuring has reduced the amount, 
+international experts estimate that NPLs account for between 
+15 and 25 percent of Vietnam's loan portfolio.  Difficulties 
+in this area also remain, because many loans lack 
+collateral, especially those to state-owned enterprises 
+(SOEs).  Therefore, the GVN is discussing a mechanism that 
+would trade the debts of SOEs scheduled for equitization. 
+Still, delays in SOE reform have made it difficult for SOCBs 
+to meet their resolution targets (see septel on SOE reform). 
+ 
+¶6.  (SBU) After declaring that it would undertake a 
+conditional recapitalization based on banks' reform efforts, 
+the GVN found the banks' restructuring plans too dated and 
+vague to be practically used for targeting recapitalization. 
+Therefore, the past three phases of recapitalization valued 
+at 7.75 trillion VND (approximately a half billion USD) have 
+not occurred in a transparent manner, do not appear to have 
+dealt with underlying problems in the banking system, and 
+were based on separate targets from the Ministry of Finance 
+and SBV.  The GVN has simply injected more capital into all 
+SOCBs without requiring that they address systemic problems. 
+If capital structures are not changed, such continuing large 
+expenditures will be of little value for the development of 
+the banks and may dilute incentives for reform.  (Note:  The 
+World Bank estimates that the actual recapitalization needs 
+of SOCBs may exceed five times that already provided if 
+current NPL estimates are accurate. End Note.) 
+ 
+¶7.  (U) Several additional operational changes are envisaged 
+in the current restructuring, which should encourage SOCBs 
+to operate in a more market-oriented manner with management 
+held accountable for operations and results.  The GVN has 
+agreed to the importance of separating the GVN's ownership 
+role of the SOCBs from day-to-day activities.  A clearer 
+separation of the roles and responsibilities of the Board of 
+Directors and the bank management is also to be developed in 
+the near future.  While the Board will be responsible for 
+setting and ensuring compliance with the overall credit 
+policies of the bank, the management will only act as 
+implementers.  Furthermore, SOCBs will establish separate 
+credit and risk management teams.  To assist with these 
+changes, a number of donors are funding "twinning" projects 
+that bring together respected international banks and SOCBs. 
+Although hope remains high that these programs will help the 
+SOCBs, the lack of human resource capacity may prevent them 
+from achieving their ambitious goals. 
+ 
+JOINT STOCK BANKS 
+----------------- 
+ 
+¶8.  (U) In Vietnam, joint stock banks (JSBs) have in many 
+ways taken on the role of local, "private" banks.  (Note: 
+Every JSB still has some level of state interest and 
+indirect SBV management. End Note.)  Following a recent 
+series of mergers and liquidations, thirty-six JSBs now 
+operate in Vietnam and account for approximately 12 percent 
+of the lending.  Primarily geared toward small and medium- 
+sized enterprises and private companies, JSBs play an 
+important role in providing credit and banking services to 
+the private sector.  In addition, they tend to be more 
+dynamic and customer oriented than SOCBs.  However, they 
+lack extensive networks and expertise in international trade 
+and complex transactions. 
+ 
+¶9.  (U) Although parts of this sector have posted strong 
+growth and performance, approximately one third are still 
+encountering problems in these areas.  The SBV continues to 
+strictly monitor these weaker ones, encouraging them to 
+merge and revoking licenses when necessary.  In addition, 
+most JSBs have undergone restructuring to increase their 
+viability.  SBV has provided capacity training for managers 
+in order to strengthen personnel management, and like the 
+SOCBs, the GVN has increased their charter capital. 
+However, some regulatory discrimination between JSBs and 
+SOCBs remain. Unlike SOCBs, JSBs are not permitted to open 
+an extensive branch network. (See reftel for more 
+information about a successful JSB.) 
+ 
+FOREIGN BANKS 
+------------- 
+ 
+¶10.  (U) Although Vietnam's banking services have evolved in 
+the past few years, the "rules of the game" continue to vary 
+significantly for different players, with foreign banks 
+experiencing the greatest limitation on their operations. 
+Among other issues, SBV still tightly controls the granting 
+of banking licenses.  At present, 27 branches and 42 
+representative offices of foreign banks operate in Vietnam, 
+accounting for approximately 24 percent of the banking 
+system's chartered capital, 15 percent of lending, and 
+around 8.5 percent of the sector's assets.  Leading foreign 
+banks with branches in Vietnam include Citibank, JP Morgan 
+Chase, HSBC, Deutsche Bank, Standard Chartered, and ANZ, and 
+Wachovia recently opened a representative office.  In 
+addition, there are four joint venture banks in Vietnam, 
+which account for around 3 percent of lending. 
+ 
+¶11.  (U) With the 2001 U.S.-Vietnam Bilateral Trade 
+Agreement (BTA), Vietnam made a number of commitments in the 
+field of financial services.  The GVN has generally sought 
+to address these obligations through a non-specific 
+assurance that BTA obligations take precedence over domestic 
+legislation in cases of conflict.  Specifically, the SBV has 
+stated that BTA provisions shall become effective 
+immediately when due regardless of the status of domestic 
+legislation.  It plans to address this commitment by issuing 
+individual regulations each time an obligation comes due 
+rather than issuing a "blanket" decree. 
+ 
+¶12.  (U) Among other commitments, the GVN agreed to increase 
+the ratio of deposits in Vietnamese Dong (VND) from an 
+original level of 25 percent of the branch's legal capital 
+under the terms of the BTA.  This ratio is to increase 
+annually for U.S. banks until full national treatment is 
+applied in year eight (starting December 2008).  U.S. banks 
+are currently allowed to accept Dong deposits at a level of 
+250 percent of their legal capital.  In addition, in 
+response to significant lobbying from non-U.S. foreign 
+banks, the SBV decided in September to increase their ratio 
+to fifty percent of their legal capital. 
+ 
+¶13.  (SBU) A number of new products were introduced in a 
+limited number of foreign banks and SOCBs in 2003.  The SBV 
+is now allowing a few banks to offer currency options on a 
+trial basis.  It also permitted some, including Citibank, to 
+provide interest rate swaps on a provisional basis.  In 
+general, foreign banks find themselves at a disadvantage 
+when it comes to introducing new products since the SBV must 
+approve each one.  In addition, foreign banks are limited in 
+their branch networks, restricted on accepting Dong 
+deposits, prevented from taking initial mortgage interest in 
+land use rights, and not allowed to issue credit cards. 
+(Note: Under the terms of the BTA, U.S. banks will be 
+allowed to take mortgage interest starting in December 2004 
+and issue credit cards in December 2009. End note.)  They, 
+therefore, tend to provide only wholesale banking services 
+and concentrate on multinational corporations and foreign 
+invested enterprises.  This reliance makes their business 
+vulnerable to the flow of foreign direct investment. 
+ 
+POLICY LENDING INSTITUTIONS 
+--------------------------- 
+ 
+¶14.  (U) One of Vietnam's major reforms in recent years has 
+been to move "policy lending" out of SOCBs by creating the 
+Development Assistance Fund (DAF) and the Bank for Social 
+Policy (VBSP).  The DAF is a specialized institution aimed 
+at conducting policy-based lending to large scale, medium- 
+and long-term projects.  Although the GVN has committed to 
+revising the DAF's governing framework in 2004, its purpose 
+will remain unchanged.  The VBSP is designed to provide 
+preferential lending to targeted poor and remote households. 
+However, because it is both a deposit taking and a policy 
+lending institution, inherent risks exist for those deciding 
+to invest in the VBSP. 
+ 
+¶15.  (SBU) These extra-budgetary institutions were created 
+to shift the problems associated with policy lending from 
+the financial sector.  Unfortunately, they could create a 
+significant burden on the budget depending upon the quality 
+of the lending and whether final borrowers can service their 
+debts.  Given the DAF's lack of transparency and expertise 
+in credit and risk management, this possibility appears 
+highly likely.  This risk is further exacerbated by the fact 
+that these institutions appear to be the GVN's current quasi- 
+fiscal method to maintain SOEs. 
+ 
+THE STATE BANK OF VIETNAM 
+------------------------- 
+ 
+¶16.  (U) The State Bank of Vietnam acts as the supervisory 
+and regulatory body for the banking sector.  The SBV, in 
+cooperation with a number of donors and international 
+financial institutions, is working to strengthen its 
+internal processes and enhance the quality of inspection. 
+In the past, it simply focused on ensuring that financial 
+institutions complied with laws and regulations whereas now, 
+it is attempting to analyze asset quality and risk.  In 
+addition, it is trying to strengthen its independence and 
+supervision of the banks within its jurisdiction.  Unlike in 
+the U.S., though, the SBV is not an independent body, and it 
+continues to operate under government guidance. 
+ 
+¶17.  (U) In addition to its role as supervisor/regulator, 
+SBV also acts as the SOCBs' shareholder even though the 
+SOCBs are officially "owned" by the Ministry of Finance. 
+The SBV is tasked with acting as the state body managing the 
+banking system. To that end, the SBV has permanent 
+representation on Supervisory Boards and appears, through 
+various appointments, approval, and licensing processes, to 
+be involved in such daily activities in SOCBs that are 
+essentially powers to be exercised by the owner.  This dual 
+role jeopardizes the SBV's independence in supervising 
+SOCBs, distorts the playing field for other institutions, 
+and makes business decisions difficult to undertake. 
+ 
+¶18.  (U) Organizationally, SBV possesses a heavy, fragmented 
+structure, which can lead to issues falling between the 
+cracks, duplication of work, and slow internal flow of 
+information.  Furthermore, the reporting lines from 
+financial institutions to various departments are unclear, 
+resulting in inefficiencies, overlapping information, and 
+the potential that some data is not reviewed.  Finally, 
+SBV's regional structure with 61 branch offices limits the 
+central government's ability to direct overall operations. 
+Experts have recommended that the GVN substantially reduce 
+this number and clarify the reporting lines.  An expert 
+evaluation of nine of the Basel Core Principles identified a 
+number of weaknesses, including a lack of consistency, 
+transparency and accountability in the banking system and in 
+the bank supervision process. 
+ 
+¶19.  (SBU) COMMENT:  Unfortunately, most of the banking 
+system reforms that Vietnam has undertaken in recent years 
+appear to be mere "window dressing" rather than an effort to 
+address systemically the system's weaknesses.  The main 
+areas of concern - SOCBs, directed lending, non-performing 
+loans (NPLs), a level playing field, and State Bank of 
+Vietnam (SBV) supervision - remain largely unresolved.  This 
+situation has created significant risks to the system, which 
+are exacerbated by the high current rate of credit growth to 
+the economy.  (Note: Estimated at around 30 percent for 
+2003, this growth rate concerns the international financial 
+institutions, as well international experts. End note.) 
+ 
+¶20.  (SBU) COMMENT CONT'D:  Still, even though it is 
+occurring slowly, the policy environment continues to 
+improve, and donor technical assistance, especially the 
+USAID-funded Support for Trade AcceleRation (STAR) project, 
+is raising the GVN's capacity to implement reforms. 
+Vietnam's senior leaders accept that reform in this area 
+must take place if future economic growth goals are to be 
+achieved.  However, the emphasis appears to be on "managing" 
+the changes and reform necessitated by international 
+commitments and domestic economic conditions rather than 
+pushing forward aggressively.  While fears about risks and 
+challenges remain, fairly solid agreement exists within the 
+GVN about the need to bring Vietnam's economy into 
+conformity with international standards, meet its BTA 
+obligations, and accede to the WTO.  Vietnam's financial 
+sector and broader economic reform commitments, especially 
+those in the BTA, have and will shape the discussion 
+regarding banking reform and ensure that it continues into 
+the future.    BURGHARDT

@@ -1,0 +1,493 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+050224Z May 03UNCLAS SECTION 01 OF 06 COLOMBO 000740 
+ 
+SIPDIS 
+ 
+FOR ECA/PE/V/F/A, ECA/PE/V/G/N-ALICE SHIFFLETT; SA/PD 
+ 
+E.O. 12958:  N/A 
+TAGS: OEXC SCUL KPAO OEXC
+SUBJECT:  FY-2003 VOLUNTARY VISITOR PROGRAM:  SRI LANKAN 
+NOMINATION 
+ 
+ 
+¶1.  PAS COLOMBO REQUESTS FOR A FUNDED VOLVIS (TWO 
+INDIVIDUALS TRAVELING TOGETHER - ITT) PROGRAM ON 
+CONGRESSIONAL AFFAIRS. POST NOMINATES MR. NAUFEL ABDUL- 
+RAHMAN, SECRETARY TO THE LEADER OF THE PARLIAMENT, AND 
+MR. N.V. KEERTHIRATNE KARUNASENA WERAGODA, SECRETARY TO 
+THE CABINET OF MINISTERS, FOR PARTICIPATION IN A 10-DAY 
+VOLUNTARY VISITOR PROGRAM ON CONGRESSIONAL COMMITTEE 
+SYSTEM.  PLEASE ADVISE IF THIS PROJECT CAN BE ACCEPTED 
+FOR PROGRAMMING. THEY WILL BE AVAILABLE FOR PROGRAMMING 
+IN LATE MAY (ANYTIME AFTER MAY 18) OR EARLY JUNE, AND 
+COULD ARRANGE THEIR TRAVEL ACCORDINGLY. 
+ 
+¶2.  THE NOMINEES' BIO DATA, JUSTIFICATION AND PROGRAM 
+SUGGESTIONS IN EVDB FORMAT FOLLOWS: 
+ 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+:  The following data is in a fixed format which enables 
+:  automated processing in Washington and should not be 
+:  edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE:  POST-EVDB 
+VERSION:  3.0.5 
+POST-EMAIL:  rscmb@pd.state.gov 
+TRANSMITTING-POST:  PAS  Colombo 
+TRANSMITTING-POST-ID:  2929 
+EXPORT-TYPE:  BIO DATA 
+START NOMINATION: 
+ECA-OFFICE:  E/VGN 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID:  80 
+ECA-PROJ-NO: 
+PROJ-NAME:  Single Country - Voluntary Visitors - 
+Congressional Committee System 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE:  Single Country Project 
+PROG-TYPE:  IV Grant Visitor 
+FY:  2003 
+DEPART-POST:  06/16/2003 
+SESSION-DATE: 
+RETURN-POST:  06/29/2003 
+NO-OF-PART:  2 
+RANK-ORDER:  0 
+START MEMO POST-OBJ: 
+This nomination is in support of MPP goal "Democracy" 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+Post requests a 10-day volvis program for two high- 
+level governemnt officials visiting the U.S. for 
+observation and consultation on the U.S. Congressional 
+committee system.  Since the Sri Lankan government is 
+considering strengthening the Parliamentary committee 
+post believes that the the nominees should be provided 
+with the opportunities to observe how congressional 
+committees are set-up and work in both federal and 
+state levels. 
+ 
+The nominees could begin the program in Washington 
+visiting U.S Congress Committee Offices and later visit 
+Committee Offices in a State Legislature (possibly 
+Albany, NY).  If approved, the two nominees will be 
+available for programming for ten days from May 19 to 
+mid or late June. 
+ 
+This request is for a 10-day funded (Per diem and 
+internal tavel) volvis grants for two nominees. 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID:  1039 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID:  SCP 
+PROG-TYPE-ID:  29 
+NOMINATING-POST-ID:  2929 
+FUNDING-CNTRY-ID: 
+STATUS:  N 
+ORIGINATOR:  P 
+SUBJ-DISC:  Federalism/U.S. Government 
+START BIO: 
+PREFIX:  Mr. 
+F-NAME:  N.V.Keerthiratne 
+M-NAME:  Karunasena 
+L-NAME:  WERAGODA 
+SUFFIX: 
+POSITION-CODE:  114 
+PRINCIPAL?:  Yes 
+M-ADDR1:  Office of the Cabinet of Ministers 
+M-ADDR2:  Republic Square 
+M-ADDR3:  Sir Baron Jayatilaka Mawatha 
+M-CITY:  Colombo 1 
+M-STATE: 
+M-CNTRY:  Sri Lanka 
+M-ZONE: 
+M-ZIP: 
+M-PHONE:  (94-1) 329-620 
+M-FAX:  (94-1) 323-730 
+M-EMAIL:  keewera@sltnet.lk 
+M-CNTRY-ID:  CE 
+M-ADDRTYPE:  B 
+GENDER:  M 
+DOB:  11/20/1937 
+MAR-STAT:  M 
+BIRTH-CITY:  Induruwa 
+BIRTH-CNTRY:  Sri Lanka 
+CITIZ-CNTRY:  Sri Lanka 
+RES-CNTRY:  Sri Lanka 
+START MEMO POSITION: 
+Secretary to the Cabinet of Ministers, December 2001- 
+ 
+SIPDIS 
+to date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1998-2001 - Chairman and Director in several companies 
+in the private sector 
+1997- Secretary, Ministry of Provincial Councils and 
+Local Government 
+1995-96 - Secretary, Ministry of Trade, Commerce and 
+Food 
+1994 - Secretary, Ministry of Finance 
+1992-93 - Secretary, Education, Higher Education and 
+Cultural Affairs 
+1988-91 - Secretary, Ministry of Fisheries and Aquatic 
+Resources 
+1982-87 - Secretary, Ministry of Agricultural 
+Development and Research 
+1978-79 - Government Agent, Matara 
+1974-77 - Government Agent, Hambantota 
+1971-73 - Additional Government Agent, Matara 
+1969-70 - Deputy General Manager, River Valleys 
+Development Board 
+1965-68 - Assistant Government Agent 
+1960-64 - Divisional Revenue Officer 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+1981 - As Mason Fellow of the Kennedy School of 
+Government, Harvard University 
+1982-97 - Several visits to World Bank and IMF to 
+negotiate projects while serving as Secretary in the 
+different ministries 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Germany, India, Malaysia and the Philippines - On 
+several occasions for official conferences 
+Paris, France - On several occasions to UNESCO as head 
+of official delegation 
+London, U.K. - 1980-81- For studies at Cambridge 
+University; and the Commonwealth Secretariat on several 
+occasions as head of official delegation 
+Rome, Italy - Several visits to attend meetings in FAO 
+and World Food Program 
+Australia, New Zealand and Pacific Island - 1982 - as 
+chairman of consultative group on Agriculture 
+Japan - 1975 (six months) - Scholarship offered by 
+JAICA 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+B.A. University of Ceylon , 1959 
+Postgraduate Diploma in Development Studies, Cambridge 
+University, U.K., 1981 
+M.A. in Public Administration, Harvard University, 1982 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member, Sri Lanka Association for the Advancement of 
+Science 
+Member, Wildlife and Nature Protection Society 
+Member, Economic Society of Sri Lanka 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+'The Progress of Rural Agriculture since Independence' 
+in  Business Today, December 1998 
+'Internal Trade in Sri Lanka,' chapter on Internal 
+Trade contributed to the National Atlas, 1997 
+'Importance of English to the Youths to Meet the Modern 
+Day Challenges'  - 1993 
+'Agricultural Research Systems and Management,' in Sri 
+Lanka Council for Agricultural Research Policy 
+publication - 1987 
+'Agricultural Plans and Policy for Nutritional Adequacy 
+in Sri Lanka' - paper prepared for FAO, 1986 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG:  Sinhala 
+ENGL-READ:  4 
+ENGL-SPEAK:  4 
+ENGL-COMP:  4 
+START MEMO NOM-POST-OBJ: 
+This nomination is in support of MPP goal on 
+"Democracy" 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+Post requests a 10-day volvis program for two high- 
+level government officials visiting the U.S. for 
+observation and consultation on the U.S. Congressional 
+committee system.  Since the Sri Lankan government is 
+considering strengthening the Parliamentary committee 
+post believes that the nominees should be provided with 
+the opportunities to observe how congressional 
+committees are set-up and work in both federal and 
+state levels. 
+ 
+The nominees could begin the program in Washington 
+visiting U.S Congress Committee Offices and later visit 
+Committee Offices in a State Legislature (possibly 
+Albany, NY).  If approved, the two nominees will be 
+available for programming for ten days from May 19 to 
+mid or late June. 
+ 
+This request is for a 10-day funded (Per diem and 
+internal tavel) volvis grants for two nominees. 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+Visitors objectives are to fully understand the working 
+of committee system in the U.S. Congrass and State 
+Legislatures. 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Bruce A. Lohof 
+START MEMO NOMINATING-JUSTIFICATION: 
+ 
+Mr. Weragoda is a senior officer of the Sri Lanka 
+Administrative Service, who has held important 
+positions previously. He is now the Secretary to the 
+Office of the Cabinet of Ministers, one of the most 
+important offices in the government. 
+The present government is desirous in introducing an 
+effective committee system in the House of Parliament. 
+Mr. Weragoda, along with Mr.Rahman who is the Secretary 
+to the Leader of the House of Parliament, have been 
+entrusted with the task of observing similar 
+institutions and make recommendation for strengthening 
+and improving the functions of Parliamentary 
+committees.  Since U.S. Congressional committees are 
+considered in high esteem Mr. Weragoda who has a wealth 
+of experience in governmental affairs would be an ideal 
+candidate for a voluntary visitor program on the 
+congressional committee system. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF:  Public Affairs Section 
+SPEAKER?:  Yes 
+NOTIFY-EMB:  Yes 
+MEDIA?:  No 
+HOME-STAY:  No 
+HOME-HOSP?:  Yes 
+E-I-TYPE: 
+NOMINEE-ID:  114 
+PERSON-ID:  116 
+BIRTH-CNTRY-ID:  CE 
+CITIZ-CNTRY-ID:  CE 
+RES-CNTRY-ID:  CE 
+FIRST-LANG-ID:  SI 
+E-I-TYPE-ID: 
+NOM-POST-ID:  2929 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS:  N 
+DS2019-ACTION:  1 
+DS2019-SUBJECT:  45.1001 
+SPONS-FUNDS:  0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1:  0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2:  0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1:  0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2:  0 
+VIS-GOVT-AMT:  0 
+COMMISSION:  0 
+OTHER-AMOUNT:  0 
+VIS-AMOUNT:  0 
+VIS-CAT:  5 
+END BIO: 
+START BIO: 
+PREFIX:  Mr. 
+F-NAME:  Naufel 
+M-NAME: 
+L-NAME:  ABDUL-RAHMAN 
+SUFFIX: 
+POSITION-CODE:  114 
+PRINCIPAL?:  Yes 
+M-ADDR1:  Office of the Leader of the House of 
+M-ADDR2:  Parliament 
+M-ADDR3:  Sri Jayewardenepura 
+M-CITY:  Kotte 
+M-STATE: 
+M-CNTRY:  Sri Lanka 
+M-ZONE: 
+M-ZIP: 
+M-PHONE:  (94-1) 777-463 
+M-FAX:  (94-1) 777-464 
+M-EMAIL:  lhpsec@slt.lk 
+M-CNTRY-ID:  CE 
+M-ADDRTYPE:  B 
+GENDER:  M 
+DOB:  06/04/1944 
+MAR-STAT:  M 
+BIRTH-CITY:  Colombo 
+BIRTH-CNTRY:  Sri Lanka 
+CITIZ-CNTRY:  Sri Lanka 
+RES-CNTRY:  Sri Lanka 
+START MEMO POSITION: 
+Secretary to the Leader of the House of Parliament, 
+ 
+SIPDIS 
+2002- to date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+1994-2001 - Secretary to the Leader of the Opposition 
+in Parliament 
+1992-94 - Director/Legal Consultant, Associated 
+Newspapers of Ceylon Ltd. 
+1992-93 - Chairman, Petroleum Compensation Tribunal 
+1984-94 - Reverted to the Bar and practised in the 
+Civil Section 
+1982-85 - Commissioner, Presidential Tariff Commission 
+1978-84 - Chairman and Chief Executive, Industrial 
+Development Board 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+1993 - International Visitor 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+Switzerland, Geneva - 1989 - Sri Lanka Delegate to the 
+General Conference of ILO 
+Australia - 1985 - Member, Sri Lanka Delegatation to 
+study the workings of the Australian Tariff Board 
+France, Paris - 1983 - Sri Lanka Delegate to the 
+General Conference of UNESCO 
+Austria, Vienna - 1981 - Sri Lanka Delegate to the 
+General Conference of UNIDO 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+Bachelor of Laws, University of Ceylon 
+Advocate of the Supreme Court of Ceylon (Sri Lanka) 
+Diploma in Business Administration, University of 
+Colombo 
+Fellow of the British Institute of Management, England 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member, Bar Association of Sri Lanka 
+Member, British Institute of Management 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+'Is Small Beautiful,' in 'Karmantha' April 1980 
+'Industrial Growth - Vertical or Lateral,' in 
+'Karmantha' December 1980 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG:  Tamil 
+ENGL-READ:  4 
+ENGL-SPEAK:  4 
+ENGL-COMP:  4 
+START OTHER-LANGS: 
+OTHER-LANG:  Sinhala 
+OTHER-LANG-ID:  SI 
+READ:  4 
+SPEAK:  4 
+COMP:  4 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+This project is in support of MPP goal on "Democracy" 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+Post requests a 10-day volvis program for two high- 
+level governemnt officials visiting the U.S. for 
+observation and consultation on the U.S. Congressional 
+committee system.  Since the Sri Lankan government is 
+considering strengthening the Parliamentary committee 
+post believes that the the nominees should be provided 
+with the opportunities to observe how congressional 
+committees are set-up and work in both federal and 
+state levels. 
+ 
+The nominees could begin the program in Washington 
+visiting U.S Congress Committee Offices and later visit 
+Committee Offices in a State Legislature (possibly 
+Albany, NY).  If approved, the two nominees will be 
+available for programming for ten days from May 19 to 
+mid or late June. 
+ 
+This request is for a 10-day funded (Per diem and 
+internal tavel) volvis grants for two nominees. 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+Visitors objectives are to fully understand the working 
+of committee system in the U.S. Congrass and State 
+Legislatures. 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Bruce A. Lohof 
+START MEMO NOMINATING-JUSTIFICATION: 
+ 
+Although Mr. Abdul-Rahman is an Attorney-at-law, he has 
+been in politics closely associated with the ruling 
+United National Party (UNP) and the Parliament for a 
+long time.  During the time the present Prime Minister 
+was the Leader of the Opposition he was the Secretary 
+to him (the Leader of the Opposition).  When the UNP 
+came into power in 2001 Mr. Rahman was appointed  the 
+Secretary to the Leader of the House. 
+ 
+SIPDIS 
+ 
+The present government is desirous in introducing an 
+effective committee system in the House of Parliament. 
+Mr. Rahman has been entrusted with the task of 
+observing similar institutions and make recommendation 
+for strengthening and improving the functions of 
+Parliamentary committees.  Since U.S. Congressional 
+committees are considered in high esteem, Mr. Rahman 
+who has long experience in parliamentary affairs would 
+be an ideal candiate for a voluntary visitor program on 
+a familiarization of the congressional committee 
+system. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF:  Public Affairs Section 
+SPEAKER?:  Yes 
+NOTIFY-EMB:  Yes 
+MEDIA?:  No 
+HOME-STAY:  No 
+HOME-HOSP?:  Yes 
+E-I-TYPE: 
+NOMINEE-ID:  115 
+PERSON-ID:  118 
+BIRTH-CNTRY-ID:  CE 
+CITIZ-CNTRY-ID:  CE 
+RES-CNTRY-ID:  CE 
+FIRST-LANG-ID:  TC 
+E-I-TYPE-ID: 
+NOM-POST-ID:  2929 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS:  N 
+DS2019-ACTION:  1 
+DS2019-SUBJECT:  45.1001 
+SPONS-FUNDS:  0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1:  0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2:  0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1:  0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2:  0 
+VIS-GOVT-AMT:  0 
+COMMISSION:  0 
+OTHER-AMOUNT:  0 
+VIS-AMOUNT:  0 
+VIS-CAT:  5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3.  PLEASE ADVISE ACCEPTANCE OF THESE NOMINATIONS AND 
+SUITABLE PROGRAM DATES ARE AVAILABLE. 
+ 
+WILLS

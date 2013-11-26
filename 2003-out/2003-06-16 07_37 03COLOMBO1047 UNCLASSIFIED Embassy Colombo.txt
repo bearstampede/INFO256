@@ -1,0 +1,231 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+160737Z Jun 03UNCLAS SECTION 01 OF 03 COLOMBO 001047 
+ 
+SIPDIS 
+ 
+STATE FOR ECA/PE/V/P-SUSAN LOCKWOOD/DEBORAH THOMPSON 
+INFO: ECA/PE/V/G/N-ALICE SHIFFLETT; SA/PD 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL KPAO OEXC
+SUBJECT: FY-2004 MRP "NGO MANAGEMENT" - JANUARY 22- 
+FEBRUARY 12, 2004: SRI LANKAN NOMINATION 
+PROJECT NUMBER: E/VP-2004-0008 
+ 
+REF: (A) STATE 085455, (B) COLOMBO 0676 
+ 
+¶1. POST NOMINATES MS. P. VISAKA HIDELLAGE, 
+COUNTRY/REGIONAL DIRECTOR, INTERMEDIATE TECHNOLOGY 
+DEVELOPMENT GROUP(ITDG), SOUTH ASIA, FOR PARTICIPATION 
+IN SUBJECT PROJECT. 
+ 
+¶2. NOMINATION IS AS FOLLOWS: 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: rscmb@pd.state.gov 
+TRANSMITTING-POST: PAS  Colombo 
+TRANSMITTING-POST-ID: 2929 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VP 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 83 
+ECA-PROJ-NO: E/VP-2004-0008 
+PROJ-NAME: NGO Management - Jan. 22-Feb.12, 2004 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Multi-Regional 
+PROG-TYPE: IV Group Projects 
+FY: 2004 
+DEPART-POST: 01/20/2004 
+SESSION-DATE: 01/22/2004 
+RETURN-POST: 02/15/2004 
+NO-OF-PART: 1 
+RANK-ORDER: 2 
+START MEMO POST-OBJ: 
+This nomination is in support of MPP goals on 
+"Democracy" and "Humanitarian Assistance" 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1027 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: MRP 
+PROG-TYPE-ID: 31 
+NOMINATING-POST-ID: 2929 
+FUNDING-CNTRY-ID: 12 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: NGO Management 
+START BIO: 
+PREFIX: Ms. 
+F-NAME: Punyawana 
+M-NAME: Vishaka 
+L-NAME: HIDELLAGE 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Intermediate Technology Development 
+M-ADDR2: Group (ITDG) 
+M-ADDR3: 6 Lionel Edirisinghe Mawatha 
+M-CITY: Kirullapone, Colombo 
+M-STATE: 
+M-CNTRY: Sri Lanka 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: (94-1) 829-412 
+M-FAX: (94-1) 856-188 
+M-EMAIL: vishakah@itdg.slt.lk 
+M-CNTRY-ID: CE 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 10/14/1955 
+MAR-STAT: S 
+BIRTH-CITY: Colombo 
+BIRTH-CNTRY: Sri Lanka 
+CITIZ-CNTRY: Sri Lanka 
+RES-CNTRY: Sri Lanka 
+START MEMO POSITION: 
+Country/Regional Director, Intermediate Technology 
+Development Group(ITDG), South Asia, April 2002- to 
+date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Oct. 1997-March 2002 - Policy Director, ITDG, South 
+Asia 
+December 1992-Sep. 1997 - Country Manager, Agro- 
+Processing, ITDG, Sri Lanka 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+June 2000 - Attended a workshop on Disaster Mitigation 
+in Miami 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+B.Sc.- Processing Engineering, Astrakhan Technical 
+Institute of Fisheries, Astrakhan, USSR, 1981 
+M.Sc. - Food Science and Technology, Post Graduate 
+Institute of Agriculture (PGIA), University of 
+Peradeniya, 1992 
+Ph.D. - Food Science/Economics, PGIA, University of 
+Peradeniya, 2002 
+Diploma in Managing Voluntary and Non Profit 
+Enterprises, Open University, U.K., 1999 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Sinhala 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: Hindi 
+OTHER-LANG-ID: HJ 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Russian 
+OTHER-LANG-ID: RU 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: Tamil 
+OTHER-LANG-ID: TC 
+READ: 3 
+SPEAK: 4 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+This nomination is in support of MPP goals  on 
+"Democracy" and "Humanitarian Assistance" 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Bruce A. Lohof 
+START MEMO NOMINATING-JUSTIFICATION: 
+Working as the Regional/Country Director for 
+Intermediate Technology Development Group (ITDG) Visaka 
+provides effective leadership for her staff and 
+develops strategic directions in the work of ITDG.  She 
+is responsible for financing programs in the Sri Lanka 
+office, balancing inputs from local and international 
+fundraising teams, and ensuring the effective and 
+efficient performance of the Sri Lanka Office in all of 
+its functions. 
+She is also a Member of the Board of Directors in the 
+Cathy Rich Memorial Food Processing Centre, 
+Embilipitiya, Sri Lanka and member of the Board of 
+Directors in the NGO's Water Supply and Sanitation 
+Decade Service, Sri Lanka. 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: Public Affairs 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: Yes 
+E-I-TYPE: 
+NOMINEE-ID: 118 
+PERSON-ID: 122 
+BIRTH-CNTRY-ID: CE 
+CITIZ-CNTRY-ID: CE 
+RES-CNTRY-ID: CE 
+FIRST-LANG-ID: SI 
+E-I-TYPE-ID: 
+NOM-POST-ID: 2929 
+NOM-FUNDING-CNTRY-ID: 12 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 52.0206 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3. PLEASE ADVISE ACCEPTANCE OF THIS NOMINATION. 
+WILLS

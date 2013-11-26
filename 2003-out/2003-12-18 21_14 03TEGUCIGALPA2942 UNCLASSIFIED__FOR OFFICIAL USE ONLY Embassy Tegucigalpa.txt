@@ -1,0 +1,224 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 03 TEGUCIGALPA 002942 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR EB/CIP 
+GUATEMALA FOR COMMATT:MLARSEN 
+DEPT OF COMMERCE FOR THE ADVOCACY CENTER 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINV KPRV HO
+SUBJECT: UNDP Responds to Embassy Inquiries on Telecom 
+ 
+Ref: a) Tegucigalpa 02612, b) Kushnir, Chang, Matthewman, 
+ 
+Urdaneta, Williams teleconference of 12/9 
+ 
+¶1. (SBU) Summary.  Post thanks Washington agencies for a 
+rapid response to reports of possible unfair procurement 
+practices by UNDP Honduras.  We have been able to discuss 
+the Hondutel telecom tenders involving Harris Communications 
+and Midwest Cable with UNDP General Coordinator for telecom 
+bids, Mr. John Morris, and Juan Diego Zelaya (his 
+counterpart from Hondutel).  Morris and Zelaya were more 
+forthcoming than any other UNDP representatives to date, 
+providing the timeline of the bid, describing the process 
+and addressing the rumors of undue influence by the French 
+company, Alcatel.  Both contracts have now been signed, so 
+advocacy for the U.S. companies does not appear to be 
+feasible at this point.  However, post would welcome IO's 
+offer to address the transparency of the process with UNDP 
+New York.  End Summary 
+ 
+¶2. (SBU) On December 4 and 11, EconOffs spoke with Juan 
+Diego Zelaya and John Morris, the Coordinators for Hondutel 
+bids for Hondutel and the UNDP, respectively.  Morris noted 
+his contracting section has accounted for over USD 109 
+million in telecom contracts this year.  Though it appeared 
+that two of the 46 tenders were conducted in a less than 
+fair manner (reftel), both were very open and forthcoming on 
+both the process and the background on the two projects in 
+which U.S. companies lost to Alcatel. 
+ 
+--------------------------------------- 
+Harris and the Microwave Network Tender 
+--------------------------------------- 
+ 
+¶3. (SBU) Morris laid out the timeline for the microwave bid, 
+referring to UNDP-kept minutes at times for exact dates. 
+The microwave bid was published on May 16, 19 and 23. 
+Twenty-three companies purchased bid packet materials, but 
+only 4 companies -- Alcatel, Harris, Siemens, and Erickson - 
+- turned in bid packets on the due date, August 25.  The 
+first two envelopes, the legal and technical packages, were 
+opened that same day.  According to Morris and UNDP minutes, 
+Alcatel, Harris and Siemens all presented technically 
+acceptable bids.  The evaluation committee submitted its 
+report and opened envelope 3, the economic envelope, on 
+September 11.  Alcatel's bid was roughly USD 7.9 million. 
+Harris offered the second lowest bid at USD 10.2 million, 
+and Seimens finished out the group at USD 13.2 million. 
+ 
+¶4. (SBU) On September 19, the bids were sent to the local 
+contract committee for review and confirmation of the 
+evaluation committee's recommendation.  Since the project is 
+valued at over USD 1 million, following approval by the 
+local committee, the packets were all sent to UNDP's 
+Procurement Advisory Committee in New York on September 22. 
+New York approved UNDP Honduras' recommendation on October 
+16 and notified Alcatel.  Hondutel and Alcatel signed the 
+microwave contract on October 22, 2003. 
+ 
+¶5. (SBU) U.S. company, Harris Communications, requested USG 
+advocacy because of rumors that Alcatel's original offer 
+omitted USD 3 million worth of equipment in its bid which 
+was added in later for free.  The bid also is alleged to 
+have included a low-quality network system that would have 
+to be upgraded later so that Alcatel's bid would remain the 
+lowest.  Morris addressed this rumor explaining it as 
+follows:  the project contains 80 different site locations 
+with each site requiring a variety of equipment, towers, 
+etc.  After the evaluation committee opened the economic 
+envelopes, they proceeded to verify that Alcatel supplied 
+the lowest bid.  During the verification of prices, the 
+committee contacted Alcatel to make sure the lot price for 
+each site matched the equipment count in the technical 
+proposal, and that all individual unit prices and overall 
+lot prices added up.  In the technical proposal (envelope 
+2), all equipment was detailed but not priced.  When asked 
+point blank if Alcatel had omitted any equipment and was 
+later allowed to add the same in, Morris responded by saying 
+no.  Alcatel had included all equipment required from the 
+beginning.  Note: Morris was concerned by the fact that 
+there was a leak in the evaluation committee and that 
+somehow other companies discovered that the evaluation 
+committee had even contacted Alcatel to verify equipment 
+count and prices. End note. 
+ 
+¶6. (SBU) The evaluation committee for the microwave tender 
+was made up of 8 members, 5 voting and 3 non-voting.  All 3 
+non-voting members are UNDP employees, and the 5 voting 
+members were 1 UNDP engineer, 2 contractors / consultants, 
+and 2 Hondutel representatives.  The local contracting 
+committee is comprised of all UNDP officials.  While there 
+were no French members or observers on the evaluation 
+committee (all members were from Central and South America), 
+there was one French observer on the local contract 
+committee, Mr. Richard Barathe.  Barathe is the Director for 
+corporate strategy and foreign relations.  He reports 
+directly to UNDP representative, Jeff Avina.  Barathe has 
+been quoted in recent months as telling Honduran colleagues 
+of his delight that U.S. companies are losing UNDP bids, 
+indirectly taking credit for the phenomenon. 
+ 
+---------------------------------- 
+Midwest Cable - Fiber Optic Tender 
+---------------------------------- 
+ 
+¶7.  (SBU) In the case of the fiber optic contract, the 
+economic bids were opened at the same time as the technical 
+bids and NO clarifications were allowed.  Midwest Cable had 
+the lowest bid ($3 million lower than winner Alcatel's $13 
+million).  However, because of the lack of ability for 
+clarification and the extreme strictness of the evaluation 
+committee, all applicants were disqualified on technical 
+grounds except for Alcatel.  Midwest had 16 deficiencies, at 
+least half of which were trivial.  UNDP claims that it has 
+no responsibility for the skewed outcome of this tender 
+(with every company but one being disqualified) because 
+Hondutel prepared the whole packet including the technical 
+specs.  Hondutel claims that the technical specs were 
+completely reviewed and substantially revised by UNDP.  We 
+asked Hondutel staff if it is true that Alcatel had written 
+an unsolicited bid for a fiber optic project (one of the 
+rumors) on which the technical specs were based, which would 
+have explained why that company alone was found to qualify. 
+Zelaya indicated that Hondutel had developed its draft specs 
+and posted them on the web, asking for public comment.  Any 
+company could have commented.  So it is possible that 
+Alcatel's comments could have influenced the original design 
+of the bid.  But Zelaya reiterated that the bid 
+specifications were revised by UNDP before the tender was 
+launched.  UNDP has never explained, to our satisfaction, 
+the early notice of Midwest's disqualification provided to 
+Alcatel and subcontractors, weeks before Midwest itself was 
+notified. 
+ 
+-------------------------------------- 
+Background on UNDP Procurement Process 
+-------------------------------------- 
+ 
+¶8. (U) The fiber optic and microwave tenders were two of 51 
+tenders that had been planned for 2003.  Of these, 46 are in 
+the pipeline.  The fiber optic project was the first.  Based 
+on the experience with it, the procedures were revised.  A 
+Hondutel official provided us with the following description 
+of the typical process. 
+ 
+¶9. (U) Hondutel staff put together a project profile 
+(sometimes with technical specs, if they have the expertise) 
+and an in-house cost estimate.  The project goes to the 
+Hondutel board of directors for a decision on whether to do 
+it or whether to send it to UNDP.  Hondutel tends to handle 
+simple procurements (tire repair, water supply) and civil 
+works itself.  They will always send to UNDP any complicated 
+procurement that has any chance of generating legal 
+challenges. 
+ 
+¶10. (U) If the Board decides to send the project to UNDP, 
+the Hondutel staff sends the documentation to UNDP.  UNDP 
+then hires consultants to either write the technical specs 
+or to review and revise the specs provided by Hondutel. 
+Once completed, UNDP launches the bids.  There is a question 
+and answer period, and Hondutel and UNDP always respond to 
+the questions together. 
+ 
+¶11. (U) Once the Q&A period is completed, an evaluation 
+committee is formed, and the bids are received and reviewed. 
+The technical proposal is opened at the time of bid 
+submittal to ensure all necessary documents are included. 
+The evaluation committee will include up to one or two 
+members from Hondutel; the remaining members should be UNDP 
+employees although sometimes consultants will be included as 
+well if specialized expertise is needed.   The majority will 
+always be UNDP (Hondutel will never have majority).  A UNDP 
+rep will always chair the group.  There should be no 
+outsiders included in the evaluation process.  The committee 
+evaluates the bids, engages in a clarification process with 
+bidders when needed, and decides which bids are compliant in 
+meeting the technical requirements.  For those bidders that 
+are compliant, the economic bids are opened, and the lowest 
+price wins.   The evaluation committee prepares its report. 
+ 
+¶12. (U) The evaluation committee's report goes to the local 
+contract committee, which decides to approve or not.  If 
+approved, it goes to the advisory committee on procurement 
+in New York for final decision.  If approved, Hondutel is 
+then notified and asked if they have any objections to the 
+final decision.  Hondutel would only object if the offer 
+price of the finalist is higher than budgeted.  This has not 
+happened to date. 
+ 
+------- 
+Comment 
+------- 
+ 
+¶13. (SBU) As the contracts have already been signed, Embassy 
+recommends informing Harris that it will not be possible to 
+request a re-bidding of the microwave tender.  Zelaya and 
+Morris provided a plausible version of events in these two 
+tenders.  They appear to demonstrate that the procurement 
+processes, while controversial and in some ways less than 
+transparent, were not overtly unfair.  We will not be able 
+to obtain more information from UNDP or Hondutel here in 
+Honduras.  If Washington agencies deem it feasible, we 
+welcome inquiries in New York about the unusual outcomes in 
+these two tenders (all bidders but Alcatel being 
+disqualified in the first and Alcatel winning the microwave 
+tender with a price far below the expected budget), as well 
+as the lack of transparency, and the apparent coziness among 
+Hondutel, UNDP and Alcatel officials.  End comment. 
+ 
+Palmer

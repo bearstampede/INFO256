@@ -1,0 +1,468 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 07 TEGUCIGALPA 001938 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+STATE FOR DRL, DRL/PHD, INL, INL/LP, INR, AND DS 
+STATE FOR WHA, WHA/PPC, WHA/EPSC, AND WHA/CEN 
+STATE PASS AID FOR LAC/CEN 
+ 
+E.O. 12958: N/A 
+TAGS: PHUM PGOV KJUS KCRM PINR SNAR ECON ASEC HO
+SUBJECT: TRUTH SCARIER THAN FICTION: AN ANALYSIS OF 
+INCREASINGLY HIGH HONDURAN MURDER RATES 
+ 
+REF: A. TEGUCIGALPA 1560 
+     ¶B. TEGUCIGALPA 527 
+ 
+¶1. (SBU) SUMMARY:  Assault rifles, gang-related, nine 
+victims, 15 to 48 years old, early morning, all family 
+members, murdered.  It is August 5 in Tegucigalpa, Honduras 
+and the facts of the latest mass murder swirl as you thumb 
+through the local newspapers.  You know shock should follow, 
+but it does not.  Instead, you mechanically proceed to the 
+next news item.  Unfortunately, in the purest sense, this 
+multiple homicide is not news in Honduras; something similar 
+happened the day before, and a couple of days before that, 
+too.  In fact, there are so many murders in Honduras that, 
+according to recent CID-Gallup polling data, the number one 
+concern among voters is violent crime (ref A).  This is even 
+more significant when one considers the myriad of problems 
+facing the nation.  But how violent is Honduras, and is it 
+really more violent than anywhere else?  There are no easy 
+answers.  The lack of reliable, comprehensive, and 
+transparent data, coupled with abundant speculation and 
+brandishing of unsourced material, frustrates any effort to 
+truly understand the problem. 
+ 
+¶2. (SBU) This report examines various organizations involved 
+with tracking violent deaths in Honduras, methodologies 
+employed, and the limitations inherent to the available data. 
+ From this analysis, several conclusions are drawn.  For one, 
+while murder statistics vary between sources, underreporting 
+of homicides in Honduras is endemic, and true murder rates 
+are probably even higher than currently being reported by the 
+Government, non-governmental organizations (NGOs), and the 
+media.  Secondly, this report finds that the murder rate in 
+Honduras is high compared with its Central American neighbors 
+and the U.S., and is climbing fast in 2003; and that the San 
+Pedro Sula murder rate is exceptionally high (almost four 
+times as high as the Washington, DC murder rate).  Finally, 
+this report addresses how the Government and various NGOs in 
+Honduras compile homicide statistics, and how differing uses 
+of the terms "murder" and "extrajudicial killings" further 
+muddle murder-related reporting. END SUMMARY 
+ 
+----------- 
+METHODOLOGY 
+----------- 
+ 
+¶3. (SBU) Much of the information contained in this report 
+comes from an analysis of the murder-related data collected 
+and published by the Public Ministry, the Ministry of Public 
+Security, the San Pedro Sula and Tegucigalpa morgues, Casa 
+Alianza (an NGO dedicated to the betterment of abandoned 
+Honduran youth), Committee for the Defense of Human Rights in 
+Honduras (CODEH), and Amnesty International.  Interviews were 
+conducted with members of these organizations when possible, 
+and considerable time was spent at both morgues observing 
+facilities, procedures, and meeting with forensic doctors and 
+staff.  Procedures for conducting preliminary murder 
+investigations were also observed at the Public Ministry's 
+"Integrated Center" in Tegucigalpa.  In order to evaluate how 
+murders are reported by the press, an assessment of murders 
+reported by the four nationally circulated newspapers was 
+conducted during the month of June, and several sources 
+familiar with how the media reports on murders, including a 
+newspaper journalist, were interviewed. 
+ 
+-------------------------------------- 
+MURDER STATISTICS VARY BETWEEN SOURCES 
+-------------------------------------- 
+ 
+GOH Data Collection Procedures: 
+ 
+¶4. (U) The Public Ministry (MP) and the Ministry of Public 
+Security (MOPS) are the two GOH agencies that serve as 
+repositories for data on crime and violent deaths.  The 
+Public Ministry derives its murder count from the nation's 
+two morgues, located in San Pedro Sula and Tegucigalpa.  The 
+morgues also report cause-of-death findings to the MOPS, 
+which treats this information as one component in its broader 
+investigation into whether a death was murder.  In practice, 
+however, most cases are not investigated (President Ricardo 
+Maduro says that each murder investigator is responsible for 
+more than 200 cases, ref B) and the morgue's recommendation 
+often becomes the cause-of-death for MOPS statistics. 
+ 
+Morgue Procedures for Collecting and Reporting Murder 
+Statistics: 
+ 
+¶5. (U) Theoretically, when a violent death occurs in Honduras 
+a forensic medicine professional arrives at the scene to help 
+determine whether the cause of death was crime related.  If 
+it is determined that the death is suspicious, the body is 
+taken to either the San Pedro Sula or Tegucigalpa morgue, 
+depending on jurisdiction.  After conducting an autopsy, 
+forensic doctors record the death as a homicide, accident, 
+suicide, natural death, or indeterminable.  Each morgue then 
+tabulates monthly and yearly murder statistics from these 
+records. 
+ 
+Discrepancies between MOP and MOPS Murder Statistics: 
+ 
+¶6. (U) As previously stated, the MP relies on data from the 
+two morgues for its murder statistics.  While the MOPS also 
+receives data from the morgue, its murder figures, which are 
+most readily available through the Preventative Police's 
+Sub-Directorate for Information and Analysis (SDIA), are 
+considerably larger than the MP's numbers.  This is because 
+the SDIA includes vehicular homicide in its count, while the 
+morgues list these deaths in a separate "accident" category. 
+The MOPS does maintain a database that differentiates 
+vehicular homicide from other murders, but the most widely 
+available, and the most publicly quoted, MOPS murder 
+statistics do include vehicular homicides. 
+ 
+NGO Procedures for Collecting and Reporting Murder Statistics: 
+ 
+¶7. (U) NGOs that report murder statistics in Honduras also 
+cite varying homicide rates.  For example, Casa Alianza 
+compiles statistics on the murder of children and youths in 
+Honduras, but it is difficult to compare Casa Alianza's 
+figures with those of the MP because each organization uses 
+different age categories.  While Casa Alianza reports on all 
+murders in which the victim was under 23-years-old, the MP 
+breaks their data down into smaller age groups, including a 
+20 to 24-year-old grouping.  This lumps together murders 
+which fall outside Casa Alianza's purview with the murders 
+counted by the NGO.  This problem is compounded further by 
+the fact that the 20 to 24-year-old age group accounts for 
+the largest number of murder victims, making any simple 
+comparison between MP numbers and Casa Alianza numbers 
+impossible.  Casa Alianza's numbers differ from those of the 
+MP further, because the organization draws its data 
+exclusively from homicide cases reported by the four 
+nationally circulated newspapers, a not entirely accurate 
+barometer since many murders go unpublished. 
+ 
+¶8. (U) Other high-profile NGOs that report on the murder 
+problem in Honduras include the Committee for the Defense of 
+Human Rights in Honduras (CODEH) and Amnesty International. 
+CODEH quotes murder rates directly from the SDIA, which, as 
+previously stated, are significantly higher than other 
+sources because they include vehicular homicide.  Amnesty 
+International's reporting on murders in Honduras, on the 
+other hand, does not include any actual numbers.  The 
+organization astutely notes that "it has been exceptionally 
+difficult to establish with any certainty the number of 
+victims in question." 
+ 
+---------------------- 
+ENDEMIC UNDERREPORTING 
+---------------------- 
+ 
+Victims From Remote Areas Less Likely to Show Up in 
+Government Statistics: 
+ 
+¶9. (SBU) Information about morgue procedure was obtained from 
+meetings with: Dr. Amilcar Rodas, Director of Forensic 
+Medicine in Tegucigalpa; Dr. Arturo Alvarez, Head of Forensic 
+Pathology in Tegucigalpa; and Dr. Francisco Herrera, Director 
+of Forensic Medicine in San Pedro Sula.  According to each of 
+these doctors, the bodies of some murder victims from remote 
+parts of the country never reach either the Tegucigalpa or 
+the San Pedro Sula morgue.  Reasons they reported for this 
+included:  No one ever called the police, the bodies were 
+dumped somewhere and never found, family members refused to 
+allow bodies to be taken to the morgue, insufficient 
+transportation to move a body, and police not following 
+proper procedure.  Consequently, the morgues are actually 
+underreporting the numbers of murders taking place, and the 
+numbers collected and reported by both the MP and the MOPS 
+are also being skewed.  None of the three doctors would 
+speculate as to how many murder victims do not reach a 
+morgue, and were doubtful that this number could be 
+determined to even a ballpark figure. 
+ 
+¶10. (SBU) Wilfredo Hernandez, violent crime reporter for La 
+Tribuna newspaper, also said that not all bodies from rural 
+areas were transported to the morgue.  He reasoned that it 
+was impractical for poor, rural families to allow the bodies 
+to be taken to Tegucigalpa or San Pedro Sula since it was 
+unlikely that justice would be carried out through official 
+channels, and the cost of recuperating the body after the 
+autopsy is exorbitant.  Hernandez said that while the MP paid 
+for a body to be transported to a morgue, the family bore the 
+burden of recuperating the body.  He estimated that the least 
+expensive box allowed by the morgue cost USD 59, and a truck 
+to transport the body would cost at a minimum USD 29. 
+Additionally, the family would have to pay the morgue for 
+clothing the body, sealing the casket if the body was badly 
+decomposed, and for the official papers needed to bury a 
+cadaver.  Hernandez estimated that a rural family allowing a 
+body to be taken to a morgue would need nearly USD 176 to get 
+it back, an exorbitant amount for many in Honduras.  Since 
+rural families often place no value on the autopsy, they may 
+never call the police in the first place, or physically 
+prevent the police from transporting the body to a morgue. 
+ 
+Honduran Media Does Not Report All Murders: 
+ 
+¶11. (U) In an attempt to evaluate the degree to which murders 
+in Honduras were being reported in the press, Political 
+Section interns tracked all murders reported in the four 
+major newspapers, El Heraldo, La Tribuna, La Prensa and El 
+Tiempo, for the month of June.  This is important because 
+these print media sources play a significant role in shaping 
+the public's impression of murder trends in Honduras. 
+Newspaper reporting on murders is also important, because 
+Casa Alianza derives its murder statistics solely from 
+accounts published in newspapers.  During the month of June, 
+the newspapers reported on 183 individual murder cases.  La 
+Tribuna generally reported more murders daily than the other 
+three newspapers, while El Heraldo tended to report the 
+fewest, focusing primarily on high profile murders. 
+ 
+¶12. (SBU) The fact that not even every murder reported by one 
+newspaper is reported by the other newspapers suggested that 
+not all murders are published, and that some selection and 
+exclusion is taking place.  Wilfredo Hernandez, violent crime 
+reporter for La Tribuna for the past three years, confirmed 
+that not every murder is reported in Honduran newspapers. 
+Though Hernandez visits the Tegucigalpa morgue every morning, 
+confers with police officers, and visits crime scenes each 
+day, he acknowledged that many of the murders he learns of 
+are not reported by his newspaper.  Hernandez said that 
+newspapers generally allot one page per day for murder and 
+violent crime news.  He said this usually means three to four 
+articles per day no matter how much news there is to report. 
+According to Hernandez, murders of women and minors tend to 
+receive greater coverage, whereas the more frequent 
+gang-related shootings of 20-something-year-old males 
+receives less attention.  Hernandez estimated that his 
+newspaper reports on two-thirds of all the murders he is 
+aware of. 
+ 
+¶13. (SBU) Hernandez also reported that rural murders are 
+especially prone to going unreported.  He said that violent 
+crime newspaper reporters rarely travel more than 20 km 
+outside of San Pedro Sula or Tegucigalpa, and that crime 
+reporting in secondary cities and in the countryside was left 
+to correspondents and special reports.  He would not 
+speculate on the number of rural murders that went unreported 
+by the newspapers. 
+ 
+¶14. (SBU) Another source familiar with the local media's 
+murder reporting, brought to the Political Section's 
+attention by the RSO, said that political pressure on 
+newspapers contributes to the underreporting of violent 
+crime.  He said that President Maduro's administration leans 
+on newspapers to limit violent crime reporting.  The fact 
+that both El Heraldo and La Prensa are affiliated with the 
+National Party (President Maduro's party) and tend to report 
+fewer murders than does La Tribuna and El Tiempo, Liberal 
+Party (opposition) affiliated newspapers, seems to affirm 
+that there is some observable link between politics and 
+newspaper murder reporting in Honduras.  Note: These four 
+newspapers are the primary means by which the Honduran public 
+receives information on murders and crime trends.  Despite 
+the phenomenon of underreporting in the Honduran print media, 
+a climate of fear still pervades the country.  It must be 
+assumed that the public would react even more severely if the 
+newspapers were reporting all murders.  End Note. 
+ 
+--------------------------------------------- ------ 
+NUMBER OF MURDERS IN HONDURAS CLIMBING FAST IN 2003 
+--------------------------------------------- ------ 
+ 
+San Pedro Sula Morgue Reports More Than 50 Percent Increase 
+in Murders Since 2002: 
+ 
+¶15. (U) Forensic doctors from both the San Pedro Sula and 
+Tegucigalpa morgues report that they have seen significantly 
+more homicide victims so far this year than during the same 
+period last year.  The San Pedro Sula morgue, which receives 
+bodies from the northern half of the country, and keeps 
+better and more accessible statistics than the Tegucigalpa 
+morgue, reports that through the first six months of 2003 
+they have performed autopsies on 994 murder victims compared 
+to 628 during the same time period in 2002.  This is a 58 
+percent year-on-year increase.  While this augmentation could 
+be partly due to a population increase, the Honduran National 
+Institute of Statistics estimates that the population of 
+Honduras is growing at only 2.6 percent annually. 
+ 
+--------------------------------------------- -------------- 
+HONDURAS MURDER RATE HIGHER THAN CENTRAL AMERICAN NEIGHBORS 
+--------------------------------------------- -------------- 
+ 
+¶16. (SBU) To make murder statistics comparable between cities 
+and countries with different populations, a murder rate per 
+100,000 is tabulated.  In 2001, based on morgue statistics, 
+the murder rate in Honduras was 29/100,000.  In 2002, the 
+murder rate in Honduras climbed to 34/100,000.  By 
+comparison, in 2001, according to the RSO in Guatemala City, 
+Guatemala recorded a murder rate of 24/100,000.  In 2002, the 
+murder rate in Guatemala climbed to 29/100,000, a number 
+significantly smaller than the rate in Honduras.  Similarly, 
+according to numbers available from the RSO in San Salvador, 
+El Salvador's murder rate was 31/100,000 in 2002, which is 
+again lower than in Honduras.  As a point of reference, using 
+the FBI statistics on murders, the murder rate for the U.S. 
+as a whole in 2001 was 6/100,000. 
+ 
+---- 
+2002 
+---- 
+ 
+Country    # of Murders       Population    Murders/100,000 
+ 
+Honduras    2,205              6,500,000          34 
+ 
+Guatemala   3,631             12,900,000          28 
+ 
+El Salvador 1,925              6,200,000          31 
+ 
+---- 
+2001 
+---- 
+ 
+Country    # of Murders       Population    Murders/100,000 
+ 
+Honduras    1,899              6,500,000          29 
+ 
+Guatemala   2,905             12,900,000          24 
+ 
+U.S.       15,980            281,500,000           6 
+ 
+---------------------------------------- 
+SAN PEDRO SULA MURDER RATE EXTRAORDINARY 
+---------------------------------------- 
+ 
+¶17. (U) The San Pedro Sula morgue reports conducting 411 
+autopsies on murder victims from the city of San Pedro Sula 
+during the first six months of 2003.  If this trend continues 
+through the end of 2003, there would be 822 murders in San 
+Pedro Sula for the year.  Based on a population estimate of 
+500,000 for the city, the murder rate would be 164/100,000 in 
+San Pedro Sula (SPS) in 2003.  By comparison, according to 
+police statistics, in 2002 the District of Columbia (DC) 
+recorded the highest murder rate of any large U.S. city at 
+46/100,000.  In other words, San Pedro Sula is almost four 
+times as violent as Washington, DC. 
+ 
+--------------------------------------------- --------- 
+PROJECTED 2003 SPS MURDER RATE VS. 2002 DC MURDER RATE 
+--------------------------------------------- --------- 
+ 
+City        # of Murders      Population   Murders/100,000 
+ 
+SPS         822               500,000           164 
+ 
+DC          264               572,000            46 
+ 
+--------------------------------------------- --------- 
+CASA ALIANZA REPORTING ACCURATE, BUT MISLEADING ON AGE 
+--------------------------------------------- --------- 
+ 
+Casa Alianza Counts Individuals Under 23-years-of-age as 
+"Children and Youth": 
+ 
+¶18. (U) Casa Alianza's murder reporting in Honduras is 
+focused exclusively on murders in which children and youth 
+are the victims.  The organization publishes monthly and 
+yearly reports, as well as intermittent stories about 
+individual homicide cases that exemplify what Casa Alianza 
+considers to be the government's indifference towards the 
+murder of children.  The monthly and yearly statistics 
+reported by Casa Alianza are published under the title 
+"Children and Youth Extrajudicially Murdered in Honduras," 
+and come exclusively from the four nationally circulated 
+newspapers.  For these reports, Casa Alianza uses the term 
+"children and youth" to mean anyone under the age of 23.  The 
+Honduran Penal Code defines minors as individuals less than 
+18 years old.  Casa Alianza's numbers do not include 
+vehicular homicides, suicides, or drug overdoses. 
+ 
+¶19. (U) Setting aside Casa Alianza's broad definition of 
+"children and youth," the statistics published by the 
+organization accurately reflect the number of youths murdered 
+in Honduras as reported by local newspapers.  A review of the 
+murders recorded by Casa Alianza during June 2003 showed that 
+all were distinct cases published in at least one local 
+newspaper.  In fact, Casa Alianza actually erred on the side 
+of underreporting, having missed several published murder 
+cases involving victims under 23-years-of-age.  No vehicular 
+homicides, suicides, or drug overdoses were recorded by Casa 
+Alianza as murders during the month of June. 
+ 
+--------------------------------------------- --------------- 
+DIFFERING USES OF TERMS "MURDER" AND "EXTRAJUDICIAL KILLING" 
+--------------------------------------------- --------------- 
+ 
+¶20. (U) Any discussion of collecting and reporting murder 
+statistics is incomplete without a discussion of what the 
+term "murder" actually means.  In general terms in the U.S., 
+murder is considered to be the intentional and unlawful 
+killing of a human being.  There is a wide-ranging use of the 
+term in Honduras, however.  The morgues define murder as 
+"death given by one person to another."  The MOPS, on the 
+other hand, has a more complicated definition of murder that 
+takes into consideration a criminal investigation, the penal 
+code, and the rulings of judges.  For some NGOs, suspicious 
+deaths that have not been categorized as murders by any 
+official entity are at times referred to as murders. 
+ 
+¶21. (U) The use of the term "extrajudicial killing" is 
+similarly nebulous.  Traditionally defined, extrajudicial 
+killing is a murder carried out by someone acting in an 
+unofficial capacity as judge, jury, and executioner.  Casa 
+Alianza uses a looser definition and counts every murder of a 
+child or youth as an extrajudicial killing.  In fact, in its 
+monthly and yearly reports of extrajudicial killings of 
+children and youth, Casa Alianza includes every murder of a 
+youth published in local newspapers.  Amnesty International 
+relies almost exclusively on Casa Alianza's information for 
+its critique of the extrajudicial killing situation in 
+Honduras.  CODEH on the other hand, perhaps because of its 
+focus on state involvement in human rights violations, counts 
+murders perpetrated by police officers or soldiers as 
+extrajudicial killings. 
+ 
+---------- 
+CONCLUSION 
+---------- 
+ 
+¶22. (SBU) Comment:  Honduras is a shockingly violent country. 
+ There are many theories as to why the murder rate is so 
+astronomically high, including the plethora of AK-47s and 
+other guns left in the region from the 1980s, the high 
+unemployment (and underemployment) rate, the dissolution of 
+families due to heavy illegal immigration to the U.S., the 
+huge number of gang members (estimated to be at least 
+30,000), and, in some cases, the actions of corrupt security 
+officials.  The fact that the police force is understaffed 
+and undertrained, and that the Public Ministry is often 
+ill-equipped to successfully prosecute criminals also 
+contributes the high number of murders.  As noted in the 
+Human Rights Report, during 2002 "no perpetrator was 
+identified in an average of 60-70 percent of the killings; 
+gangs were suspected in 15-20 percent of killings; police, 
+private guards, or neighborhood vigilante groups were 
+suspected in 5 percent of killings, and 10-15 percent of 
+killings were drive-by shootings usually involving a truck, 
+often without license plates." 
+ 
+¶23. (SBU) Comment Continued:  What is clear is that the 
+murder rate is high and increasing, especially in San Pedro 
+Sula.  Debates over varying figures and interpretations 
+should not cloud the fact that the high murder rate is one of 
+the most critical human rights and law enforcement issues in 
+Honduras, one that has wreaked devastation on a country 
+already challenged by slow economic development, corruption, 
+and natural disasters.  It also makes it clear why reform of 
+the justice system is one of the GOH's (and Post's) top 
+priorities.  End Comment. 
+Pierce

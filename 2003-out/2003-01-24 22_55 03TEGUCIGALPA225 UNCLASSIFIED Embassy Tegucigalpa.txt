@@ -1,0 +1,701 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+242255Z Jan 03UNCLAS SECTION 01 OF 09 TEGUCIGALPA 000225 
+ 
+SIPDIS 
+ 
+STATE FOR WHA/CEN, WHA/EPSC, AND EB 
+ 
+LABOR FOR ILAB, ROBERT WHOLEY 
+ 
+STATE PLEASE PASS TO USAID, USTR, EXIM, OPIC, USED IDB, USED 
+WB, USED IMF 
+ 
+E.O. 12958: N/A 
+ 
+TAGS: EFIN ECON EINV ETRD ELAB EAID PGOV HO
+SUBJECT: Honduras: 2002 Preliminary Macroeconomic Update 
+ 
+ 
+-------- 
+CONTENTS 
+-------- 
+1-4      MACROECONOMIC OVERVIEW 
+5-6      ECONOMIC GROWTH 
+7-8      PRICES AND WAGES 
+9-13     MONETARY AND EXCHANGE RATE POLICY 
+14-18    BALANCE OF PAYMENTS 
+19-21    TRADE 
+22       TOURISM 
+23       UNEMPLOYMENT 
+24       PUBLIC SECTOR FINANCES 
+25       DEBT 
+26       FOREIGN DIRECT INVESTMENT 
+ 
+ 
+---------------------- 
+MACROECONOMIC OVERVIEW 
+---------------------- 
+ 
+¶1. The Central Bank of Honduras estimates economic growth in 
+terms of real GDP in 2002 of two percent, lower than the 
+rate of growth in 2001 and lower than the rate of population 
+growth.  The Consumer Price Index rose by 7.7 percent in the 
+first eleven months of 2002; inflation for the year is 
+projected to be 8 percent.  The exchange rate at the end of 
+September 2002 was Lps. 16.6731 per one USD, with an 
+accumulated nominal depreciation of 4.7 percent; total 
+depreciation for the year is expected to be about six 
+percent.  In September, the money supply had grown by 12.9 
+percent over the year before; credit to the private sector 
+was up by 5.5 percent.  The average nominal interest for new 
+loans in national currency in September was 21.2 percent, 
+and the average interest on new long-term deposits in 
+national currency was 12.9 percent. 
+ 
+¶2. As of July, exports (excluding textiles) were down in 
+value terms by 6.3 percent, compared to the same period last 
+year, with a decrease in the value of imports of 7.5 
+percent.  As a result, the trade balance for merchandise 
+registered a deficit of USD 912.9 million, USD 85.2 million 
+less than the deficit in 2001. 
+ 
+¶3. In the month of October 2002, income from family 
+remittances was 35.2 percent higher than the year before. 
+On the other hand, income from the textile industry 
+(primarily apparel) declined by 4.9 percent compared to the 
+same period in 2001. 
+ 
+¶4. At the end of September 2002, net international reserves 
+reached USD 1.77 billion; USD 1.18 billion were held in the 
+Central Bank and USD 589.4 million in the rest of the 
+financial system. 
+ 
+ 
+--------------- 
+ECOMOMIC GROWTH 
+--------------- 
+ 
+¶5. The rate of real GDP growth this year is the lowest in 
+five years, with the exception of 1999 when Honduras 
+suffered the effects of the devastation of Hurricane Mitch. 
+In 2000, a significant 5.2 percent growth rate was reached, 
+but last year it was only 2.6 percent.  Three important 
+factors contributed to the slow economic growth of the 
+economy: the economic recession in the U.S., (Honduras' most 
+important commercial partner); continued declines in prices 
+in the world market for the major Honduran export products; 
+and delays in international financial institution 
+disbursements that resulted from Honduras' problems in 
+complying with its IMF Poverty Reduction and Growth Facility 
+(PRGF) program. 
+ 
+¶6. Both agriculture and manufacturing were stagnant in 2002. 
+Only mining showed a significant increase, growing by 19.3 
+percent in 2002, which was influenced mainly by increases in 
+the production of silver (up 33.7 percent), lead (up 45.5 
+percent) and zinc (up 15.2 percent). 
+ 
+  REAL GDP GROWTH RATE 
+     (Percent) 
+ 
+  1997  5.1 
+1998  2.9 
+1999 -1.9 
+2000  5.2 
+2001  2.6 
+2002  2.0 
+ 
+ 
+ INDEX OF ACTIVITY IN KEY PRODUCTIVE SECTORS 
+     1999 = 100  (figures up to June 2002) 
+                                       Pct change 
+                2001           2002     2002/01 
+ 
+Agriculture    161.8          160.3     -0.9 
+Mining         157.8          188.2     19.3 
+Manufacturing  257.7          256.6     -0.4 
+---------------- 
+PRICES AND WAGES 
+---------------- 
+ 
+¶7. The monthly change in the Consumer Price Index (CPI) in 
+November 2002 was 0.6 percent.  The accumulated growth from 
+January to November 2002 was 7.3 percent, and the annual 
+variation from November 2001 to November 2002 was 7.7 
+percent. 
+ 
+ 
+CONSUMER PRICE INDEX  (CPI) 
+ 
+(December 1999=100) 
+                         Percent 
+          Average        Change 
+ 
+1997       75.2          20.2 
+1998       85.5          13.7 
+1999       95.4          11.6 
+2000      106.6          11.1 
+2001      116.2           9.6 
+2002*     124.7           7.6 
+ 
+* Figures for 2002 are up to November 
+ 
+ 
+MONTHLY CPI FOR 2001 AND 2002 (through NOV) 
+ 
+     End of    Pct Change          End of    12 month 
+2001 Period    Same Month     2002 Period     Percent 
+               Year early                      Change 
+ 
+JAN  111.1          10.5      JAN  120.2          8.2 
+FEB  112.5          10.3      FEB  121.5          8.0 
+MAR  113.5          10.2      MAR  122.2          7.7 
+APR  114.2           9.5      APR  123.1          7.8 
+MAY  115.6           9.8      MAY  123.7          7.0 
+JUN  116.3           9.4      JUN  125.1          7.6 
+JUL  116.9           9.3      JUL  126.1          7.9 
+AUG  117.7           9.5      AUG  126.9          7.8 
+SEP  118.6          10.1      SEP  127.1          7.2 
+OCT  118.8           9.7      OCT  127.8          7.6 
+NOV  119.4           9.0      NOV  128.6          7.7 
+DEC  119.8           8.8 
+ 
+ 
+¶8. The legal official minimum wage increased by 12 percent 
+in May 2002 to USD 119.00 per month.  Negotiations to reset 
+this salary for 2003 are underway and are expected to 
+conclude by May 2003.  The reason the GOH can maintain 
+minimum wage at this low level is their promise not to raise 
+the price of the basic goods basket. 
+ 
+--------------------------------------------- -- 
+MONETARY INTEREST RATE AND EXCHANGE RATE POLICY 
+--------------------------------------------- -- 
+ 
+¶9. At the end of September 2002, money supply registered an 
+annualized growth rate of 12.9 percent, similar to the one 
+observed in December 2001.  This growth is explained by the 
+increase of 11.7 percent in the supply of local currency and 
+16.1 percent in the supply of foreign currency. 
+ 
+¶10. Interest rates for credit from the financial system to 
+the private sector reached 5.5 percent, 5.2 percentage 
+points less than that registered in December 2001.  This 
+growth is explained by the 7.0 percent and 0.7 percent 
+growth in the loan balances of local and foreign currencies 
+respectively. 
+ 
+¶11. In September 2002, the average nominal interest rate on 
+new loans in local currency reached 21.2 percent, 1.0 
+percentage points less than the rate registered in December 
+¶2001.  The average interest rate on new long-term deposits 
+in local currency was 12.9 percent, 1.2 percentage points 
+less than the rate observed at the end of 2001. 
+ 
+¶12. The total internal credit of the financial system 
+experienced a slight reduction of 0.1 percent (Lps.36.2 
+million), explained by the fall of 22.6 percent (Lps. 1.78 
+billion) in the Central Bank's net credit and 14.0 percent 
+(Lps. 485.5 million) in the rest of the financial system's 
+net credit to the non-financial public sector.  These 
+downward movements were offset by the increase of 5.5 
+percent (Lps.2.23 billion) in credit from the rest of the 
+financial sector to the private sector, which registered a 
+lower interest than that in August of 5.6 percent. 
+ 
+¶13. The Lempira suffered an inter-annual depreciation in 
+December 2002 of 6.3 percent compared to December 2001. 
+ 
+ 
+ANNUAL INTEREST RATES -COMMERCIAL BANKS 
+    (weighted averages) 
+ 
+YEAR      LENDING            DEPOSIT 
+ 
+1998      30.61               16.00 
+1999      29.46               15.04 
+2000      24.57               12.23 
+2001      23.18               11.76 
+2002 
+JAN       23.13               11.44 
+FEB       23.08               11.36 
+MAR       23.11               11.35 
+APR       23.08               11.13 
+MAY       22.89               11.13 
+JUN       22.92               11.03 
+JUL       22.81               10.52 
+AUG       22.63               10.15 
+SEP pr/   22.43               10.02 
+ 
+      NET INTERNAL CREDIT 
+          END OF              PCT CHANGE 
+          PERIOD 
+       (USD MILLION) 
+ 
+2000      25,707.2 
+2001      29,775.0               15.8 
+2002p/    28,795.3               -0.1 (Sep. 2002) 
+ 
+(Exchange rate Lps. 16.6731 = USD 1.00) 
+ 
+ 
+               EXCHANGE RATE 
+             (Lempiras for USD) 
+ 
+YEAR      END OF    YEAR           ANNUAL 
+          PERIOD    AVERAGE        DEVALUATION (PERCENT) 
+ 
+1998      13.92     13.54               5.4 
+1999      14.66     14.35               5.0 
+2000      15.31     15.01               4.39 
+2001      16.05     15.65               5.14 
+2002(Nov) 17.00     N/A                 6.3 
+ 
+ 
+------------------- 
+BALANCE OF PAYMENTS 
+------------------- 
+ 
+¶14. In the period from January 1 to October 30, 2002, 
+foreign currency income was USD 2.25 billion, higher by 5.4 
+percent than the USD 2.13 billion of the last period.  In 
+2001 it increased 5.3 percent compared to 2000. 
+ 
+¶15. Of the total 2.2 billion plus dollars received in 2002, 
+foreign currency income from exports accounted for USD 438.4 
+million, USD 351.0 million came from the maquila industry, 
+services contributed USD 426.9 million, and USD 35.6 million 
+derived from rent.  Foreign currency income from transfers 
+totaled USD569.6 million (this includes USD 526.2 million 
+from family remittances alone, equal to 23.4 percent of 
+total 2.2 billion dollars received), USD 189.5 million in 
+private sector external debt, USD 6.5 million in foreign 
+investment, USD 169.1 million from other capital income, and 
+USD 63.2 million from the purchase of the financial system 
+by CADD's (Monetary Absorption Certificates Denominated in 
+Dollars). 
+ 
+¶16. One of the most important sources of foreign currency is 
+family remittances, reaching USD 526.2 million in October 
+2002, of which USD 431.3 million were received by the 
+financial system, exchange houses counted for USD 91.3 
+million, and lending and savings associations reported USD 
+3.6 million. 
+¶17.  At the end of October 2002, Net International Reserves 
+were USD 1.72 billion, of which USD 1.14 billion were in the 
+Central Bank and USD 0.58 billion were held in the rest of 
+the financial system.  International reserves have been 
+rising steadily since 1998.  They currently exceed four 
+months of imports, and a visiting IMF mission in October 
+2002 noted that this level is considered adequate. 
+ 
+¶18. The Central Bank's international reserves were USD 1.13 
+billion, 2.4 percent higher than at the end of 2001.  The 
+16.6 percent decline in receipts from exports was offset by 
+the higher decline in demand for foreign currency by 
+importers.  The Central Bank continues with a system of 
+public auctions of foreign currency in order to eliminate 
+speculation.  At the end of May 2002, USD 615.5 million were 
+appropriated through auctioning, up 8.9 percent from the 
+amount appropriated in March 2001. 
+ 
+ 
+ 
+      ACCUMULATED INCOME FROM FOREIGN CURRENCY BY ORIGIN 
+                     (In USD millions) 
+ 
+ORIGEN           2000    PCT    2001    PCT    2002p/  PCT 
+ 
+Exports         489.6    22.8   476.4   20.9   474.4   19.7 
+Maquila         369.9    17.2   391.0   17.2   379.8   15.7 
+Services        428.4    19.9   515.2   22.6   445.6   18.5 
+Invest. Rent     26.0     1.2    21.8    1.0    38.8    1.6 
+Transfers       341.5    15.9   458.3   20.1   612.9   25.4 
+Remittances     305.6    14.2   420.3   18.4   564.9   23.4 
+External Debt   270.0    12.5   195.4    8.6   203.7    8.4 
+For Investment   45.5     2.1    57.0    2.5     6.5    0.3 
+Other Income    180.1     8.4   162.0    7.1   211.3    8.8 
+CADD Bonds        0.0     0.0     0.0    0.0    39.9    1.6 
+ 
+(p/ preliminary Sep. 2002) 
+ 
+ 
+ 
+               FAMILY REMITTANCES 
+ 
+          YEAR         TOTAL (In USD Millions) 
+ 
+          2000 283.4 
+2001 390.6 
+          2002p/      526.2 
+ 
+  (Year 2002 amount is preliminary to October) 
+ 
+ 
+NET INTERNATIONAL RESERVES 
+(Billions of Dollars) 
+ 
+1998 (Dec)      0.90 
+1999 (Dec)      1.37 
+2000 (Dec)      1.49 
+2001 (Dec)      1.64 
+2002 (Oct)      1.72 
+ 
+ 
+----- 
+TRADE 
+----- 
+ 
+¶19. The merchandise trade balance for the period of January 
+to August 2002 showed a deficit of USD 1.06 billion, USD 99 
+million less than the trade deficit during the same period 
+in 2001.  The value of exports FOB in 2002 of USD 857.5 
+million represented a decrease of 4.9 percent in relation to 
+the same period last year.  The value in imports CIF of USD 
+1.92 billion was 7.0 percent less than the level during the 
+same period in 2001. 
+ 
+¶20. The reduction in exports is mainly due to the decrease 
+in the export value of coffee and bananas, Honduras' 
+traditional export commodities.  Coffee exports declined by 
+30.4 percent as a result of both low international coffee 
+prices and decreased production.  Banana exports dropped 
+33.7 percent compared to the first trimester of 2001; the 
+main reason was the 19.3 percent price decrease for a 40 lb. 
+box.  Other exports like zinc, shrimp and wood also declined 
+in value terms in 2002.  Exports of gold and sugar 
+experienced an increase in 2002.  Sugar exports rose because 
+of the opening of new markets in the U.S. and Europe. 
+ 
+¶21. Imports declined by USD 79.7 million.  The most 
+significant decreases occurred in the food industry (22.1 
+percent), metals (25.8 percent), and mineral products (14.0 
+percent).  Some imports that increased during the first 
+quarter of 2002 are machinery and electronic products and 
+vegetables. 
+ 
+ 
+                  Banana Exports 
+ 
+         Value           Volume         Avg. Unit Price 
+     (USD Millions)    40 lb. Boxes        in USD 
+ 
+2000      81.5           11,865.0          6.87 
+2001     140.0           15,939.6          8.78 
+2002*    105.7           14,054.0          7.52 
+ 
+* 2002 figures up to August 
+ 
+ 
+                 Coffee Exports 
+ 
+       Value        Volume    Price   Volume      Price 
+  (USD Millions)  60kg bags    USD   46kg bags     USD 
+ 
+2000   319.9       2,643.0    121.05  3,447.0      92.80 
+2001   151.0       2,234.6    67.58   2,915.3      51.80 
+2002*  156.3       2,348.6    66.53   3,063.3      51.01 
+ 
+*2002 figures up to August 
+ 
+ 
+           Other Important Exports 
+ 
+                    Wood (Ft) 
+ 
+          Value 
+        USD Millions     Volume (ft)    Unit Price (USD) 
+ 
+2000      20.3           26,738.0             0.76 
+2001      21.6           28,070.2             0.77 
+2002      19.2           25,329.6             0.76 
+ 
+ 
+            Refrigerated Meat (Kgs) 
+ 
+          Value 
+       USD Millions    Volume (Kgs)     Unit Price (USD) 
+ 
+2000       1.19          677.0               1.75 
+2001       0.57          311.9               1.82 
+2002       0.25          115.4               2.14 
+ 
+(2002 figures up to August) 
+ 
+ 
+               Gold (Oz. T) 
+ 
+          Value 
+       USD Millions    Volume (Oz.T)    Unit Price (USD) 
+ 
+2000       2.15            8.3               258.83 
+2001      34.42          131.8               261.11 
+2002      53.29          178.7               298.32 
+ 
+(2002 figures up to August) 
+ 
+ 
+                  Silver (Oz. T) 
+ 
+          Value 
+       USD Millions    Volume (Oz.T)    Unit Price (USD) 
+ 
+2000      2.96           611.0               4.85 
+2001      3.14           724.6               4.33 
+2002      2.05           464.3               4.41 
+ 
+(2002 figures up to August) 
+ 
+ 
+                   Zinc (Lbs) 
+          Value 
+       USD Millions    Volume (Lbs)     Unit Price (USD) 
+ 
+2000      28.98          50,920.0            0.57 
+2001      21.48          50,704.5            0.42 
+2002      21.12          66,928.5            0.32 
+ 
+(2002 figures up to August) 
+ 
+ 
+                   Sugar (Kgs) 
+ 
+          Value 
+       USD Millions    Volume (Kgs)     Unit Price (USD) 
+ 
+2000       5.76            15,342.0          0.38 
+2001      28.37           148,083.1          0.19 
+2002      16.97            93,088.1          0.18 
+ 
+(2002 figures are up to August) 
+ 
+ 
+IMPORTS (CIF USD Millions) 
+ 
+          Total 
+ 
+  1999 2.68 
+2000 2.85 
+2001 2.98 
+2002 0.94 
+ 
+  (Figures do not include fuel imports; 2002 figures are up 
+  to August) 
+ 
+ 
+MAQUILA INDUSTRY (In USD Billion) 
+            Exports 
+ 
+  1999    2.16 
+2000    2.36 
+2001    2.34 
+2002    1.74 
+ 
+  (Figures for 2002 are up to September) 
+ 
+ 
+------- 
+TOURISM 
+------- 
+ 
+¶22. In the last few years, there has been slow growth at the 
+national level in the tourism sector, primarily because of 
+the effects of Hurricane Mitch and then the events of 
+September 11 and the world economic downturn.  The Maduro 
+Government has initiated a process to strengthen this sector 
+with various projects and activities to consolidate and 
+diversify what the sector has to offer, especially to its 
+principal customers: the U.S. and Europe.  The increase in 
+the number of visitors this year is mainly the result of 
+cruise ships that dock at the Bay Islands.  Around 850 
+thousand visitors are projected to have visited Honduras in 
+2002, yielding an expected revenue for 2002 of USD 350 
+million. 
+ 
+ 
+               Total Visitors      Foreign        Foreign 
+                                   Exchange       Exchange 
+               (thousands)         Income         Outflow 
+                              (USD million)  (USD million) 
+ 
+  1999         428.1              195.0            94.0 
+  2000         688.4              259.8           106.7 
+  2001       809.8              256.2           156.6 
+  2002*           850.0              350.0             N/A 
+ 
+  *Figures for 2002 are estimates 
+ 
+ 
+------------ 
+UNEMPLOYMENT 
+------------ 
+ 
+¶23. The May 2002 survey showed unemployment in Honduras to 
+be 4.1 percent, a little bit higher than the rate in 
+September 2001.  The fact that only a few hours a week of 
+work means a person can qualify as employed under the ILO 
+definition used in Honduras.  Hidden underemployment is 
+considered to better reflect changes in the employment 
+situation in the country and is believed to be far higher 
+than the reported unemployment figures. 
+ 
+UNEMPLOYMENT (PERCENT OF LABOR FORCE) 
+ 
+  1997 Sep.  4.3 
+1998 Sep.  3.0 
+1999 Sep.  3.3 
+2000 N/A 
+2001 Sep.  3.9 
+2002 May   4.1 
+ 
+ 
+---------------------- 
+PUBLIC SECTOR FINANCES 
+---------------------- 
+ 
+¶24. In 2002, government fiscal policy was aimed at trying to 
+lower the fiscal deficit of approximately 6.1 percent of GDP 
+that the previous government left in 2001.  Given the 
+growing increase in government expenditures, resulting 
+primarily from the mandated increase in public wages and 
+payments to cover defaults in the banking sector, the 
+incoming government had to find new ways to increase tax 
+revenues.  In May 2002, the financial balance registered a 
+surplus in net terms of Lps. 407.9 million (USD 24.8 
+million) or 0.9 percent of GDP, due mainly to low capital 
+expenditures.  Tax collection has increase by 8.5 percent 
+compared to last year.  Running expenses were determinant 
+especially due to increments in the salaries of teachers and 
+health care providers, which increased 11.6 percent. 
+Payments for interest on debt, on the other hand, were less 
+than 11.1 percent due to negotiations with the Paris Club to 
+reprogram expired debt payments. 
+ 
+                CENTRAL GOVERNMENT FINANCES* 
+                 (in billions of Lempiras) 
+                                      Pct 
+                       2001     2002      Increase 
+ 
+  Total Revenues 7.60      8.24        8.5 
+  Current Income 7.55      7.79        3.2 
+  Direct Taxes        6.71      6.71        0.1 
+  Indirect Taxes 0.84      1.07       28.3 
+  Others              0.05      0.45      781.2 
+ 
+  Current Expend.  5.62      6.22       10.7 
+  Current Savings  1.93      1.57      -18.6 
+ 
+   Capital 
+   Expenditures     2.40      1.62      -32.6 
+ 
+   Net Total 
+   Expenditures     8.02      7.83       -2.3 
+ 
+   Net Global 
+   Balance         -0.42      0.41      197.5 
+   Debt Payments    0.86      0.83       97.4 
+ 
+   Gross Global 
+   Balance         -1.27     -0.42      -66.7 
+ 
+*(Figures for 2002 are up to June) 
+ 
+ 
+---- 
+DEBT 
+---- 
+ 
+¶25. In 2002, the Government of Honduras missed the principal 
+targets of the IMF's Poverty Reduction and Growth Facility 
+(PRGF) program and did not receive the disbursements from 
+the final year of the three-year PRGF. The government hopes 
+to reach an agreement on a new three-year PRGF with the IMF 
+by June 2003, in order to reach the completion point for 
+HIPC debt relief (an estimated USD 900 million over fifteen 
+years). 
+ 
+    STOCK OF FOREIGN DEBT 
+      (USD Billions) 
+ 
+  Year          Value 
+ 
+  1997 4.07 
+1998 4.40 
+1999 4.73 
+2000 4.71 
+2001 4.75 
+ 
+(Current exchange rate is Lps.17.00 X USD 1.00) 
+ 
+  DOMESTIC DEBT BALANCE 
+  (Billions of Lempiras) 
+ 
+   Year           Value 
+ 
+  1997 1.40 
+1998 1.34 
+1999 1.27 
+2000 0.96 
+2001 0.94 
+ 
+ 
+------------------------- 
+FOREIGN DIRECT INVESTMENT 
+------------------------- 
+ 
+¶26. According to Central Bank data, foreign direct 
+investment (FDI) flows in Honduras in 2001 totaled USD 186 
+million.  The U.S. continues to be the dominant source of 
+FDI in Honduras, with U.S. investment in 2001 reaching an 
+estimated USD 84 million, (or 45 percent of total FDI in 
+Honduras).  Post informally calculates U.S. FDI stock in 
+Honduras to be approximately USD 750 million, based 
+primarily in the apparel-assembly and agriculture sector 
+(especially bananas). 
+ 
+ANNUAL FOREIGN DIRECT INVESTMENT BY COUNTRY OF ORIGIN 
+                 (USD Millions) 
+ 
+                    1998       1999      2000     2001 
+ 
+United States       33.05     113.86    117.90    83.75 
+Canada              12.00      55.10     58.69    41.69 
+Panama               0.97      19.47     21.50    15.27 
+El Salvador          7.65      13.91     15.35    10.91 
+Switzerland          3.75       6.95      7.67     5.45 
+Costa Rica           5.59       6.44      7.11     5.05 
+Spain                1.65       5.88      6.50     4.61 
+Italy               11.88      -3.61      5.24     3.72 
+Mexico               1.18       4.61      5.09     3.62 
+Guatemala            5.19       3.35      3.70     2.63 
+England              6.61       2.57      2.83     2.01 
+Japan                1.90       0.12      0.68     0.48 
+Germany              4.19       0.16      0.17     0.12 
+Other countries      3.71       8.52      9.40     6.68 
+ 
+Total               99.32     237.33    261.83   186.00 
+ 
+  Accumulated Investment in Textile Industry 2001 
+   (Information for 2002 is not available yet) 
+ 
+                    Amount           Percent of 
+                 (USD Millions)          Total 
+ 
+Honduras            670.1               47.1 
+U.S.                370.2               26.0 
+Korea               145.5               10.2 
+Hong Kong            43.8                3.1 
+Taiwan               55.2                3.9 
+China                33.8                2.5 
+Singapore            18.8                1.3 
+Canada               49.2                3.5 
+Colombia              2.0                 .1 
+Barbados               .1                0.0 
+Co-investment        32.9                2.3 
+                    -----               ---- 
+Total              1421.6              100.0 
+ 
+ 
+ 
+PALMER

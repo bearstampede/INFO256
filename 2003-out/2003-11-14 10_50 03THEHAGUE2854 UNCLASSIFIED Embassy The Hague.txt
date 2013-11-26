@@ -1,0 +1,78 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS THE HAGUE 002854 
+ 
+SIPDIS 
+ 
+STATE FOR AC/CB, NP/CBM, VC/CCB, L/ACV, IO/S 
+SECDEF FOR OSD/ISC 
+JOINT STAFF FOR DD PMA-A FOR WTC 
+COMMERCE FOR BIS (GOLDMAN) 
+NSC FOR CHUPA 
+WINPAC FOR LIEPMAN 
+ 
+E.O. 12958: N/A 
+TAGS: PARM PREL CWC
+SUBJECT: CHEMICAL WEAPONS CONVENTION (CWC): CTFS AND GREG 
+LINDEN 
+ 
+This is CWC-120-03. 
+ 
+Action request in para 3. 
+ 
+¶1.  On November 10, U.S. Delegation to the OPCW 
+representatives Pete Ito and Betsy Sanders met with Greg 
+Linden, Chief of Information Systems Branch (C/ISB) of the 
+OPCW Technical Secretariat (TS) to discuss TS plans for data 
+automation (two reports, FAXed back to AC/CB) and the 
+upcoming Security Audit-IV.  Linden expressed appreciation 
+for the U.S. efforts on the English and foreign language 
+versions of the CTFS, and provided testing reports done by 
+two software developers (faxed to AC/CB).  Linden asked that 
+work not begin on the Arabic or Chinese versions until the 
+assessment of the CTFS is complete.  He estimated that he 
+would have a more definitive answer on these latter two 
+versions by early to mid-December 2003. 
+ 
+¶2.  Linden also provided ISB's testing report on the CTFS 
+tool releases 0.5.1 and 0.5.24, which presents the views of 
+two software developers (faxed to AC/CB).  Basic concerns 
+were expressed on inconsistencies of data across forms, 
+inoperability of certain buttons, inflexibility of the date 
+field (U.S. format only), and inability of exiting certain 
+forms without filling in data fields.  Linden reported that 
+the U.S. developers promised to provide the source codes, but 
+ISB had not received the foreign language source codes and 
+had received some but not all of the source code of the 
+English version.  Action Request:  Del requests that the 
+source codes for English and foreign language versions of the 
+CTFS be provided for passage to Linden to better enable ISB 
+decisions regarding how best to include the CTFS in its 
+Verification Information System (VIS) Components Architecture. 
+ 
+¶3.  Linden also provided a report entitled "User Requirements 
+Document Reflecting Declaration Branch Needs for the Enhanced 
+VIS."  This document presents ISB plans to better support 
+Declaration Branch requirements.  Linden noted that this was 
+the first time that the software developers met with the 
+eventual software users to determine what reports were needed 
+and what core capabilities were required by the users.  On 
+this basis, ISB developed a target IT architecture.  Linden 
+provided a schematic of the current IT system structure, a 
+schematic of the target IT system, and a schematic depicting 
+the VIS Architecture.   Both the target system and the VIS 
+include the CFTS as a key component. 
+ 
+¶4.  Finally, Linden briefly discussed the upcoming security 
+audit and its timing.  ISB is changing the TS IT operating 
+system in the early December 2003 timeframe, and requested 
+that the audit begin in early to mid-January 2004.  Linden 
+noted that if the audit began in December, the auditors would 
+then have a picture of how things were, not how things will 
+be.  By delaying until January, the auditors will be able to 
+assess how well the TS did during the migration from one 
+system to the other as well as the functionality of the new 
+system.  Linden added that he welcomed the audit and looked 
+forward to seeing the results of the fourth security audit 
+team (SAT-IV). 
+ 
+¶5.  Javits sends. 
+RUSSEL

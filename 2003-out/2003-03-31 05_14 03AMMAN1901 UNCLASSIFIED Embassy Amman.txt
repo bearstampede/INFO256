@@ -1,0 +1,188 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 AMMAN 001901 
+ 
+SIPDIS 
+ 
+STATE FOR NEA/ARN AND EB/CIP 
+USDOC FOR 6430/ITA/ITI/OITEC/DKRIZ 
+ 
+E.O. 12958; N/A 
+TAGS: BEXP ETRD JO ECIP
+SUBJECT: Jordan: Reply to Questionnaire 
+ 
+REF: USDOC 06506 
+ 
+(Source: Jordan Computer Society) 
+(Source: Information Technology Association - Jordan; INTAJ) 
+(Source: Jordan Institute of Standards and Metrology; JISM) 
+ 
+¶1.   (u) Below is information on duties/taxes and customs 
+procedures for information technology products and electronic 
+commerce transactions for Jordan. Answers are keyed to questions 
+reftel. Follow-up questions should be directed to Ian Campbell, 
+Econ Section (CAMPBELLIP2(at)state.gov). Information source is 
+indicated at the end of each answer. 
+ 
+¶2.   (u)  QUESTIONS ON SOFTWARE/RELATED SERVICES IMPORTS: 
+ 
+¶A.   Are Duties and taxes assessed on the Intellectual Property of 
+the software or on the medium on which it is presented? Is 
+customized software treated differently than packed software? 
+ 
+All software products are subject to 13% sales tax.  Intellectual 
+property is considered a service and is subject to 13% sales tax. 
+(Source: Jordan Computer Society) 
+ 
+¶B.   What are the customs duties and tax implications for software 
+sold with updates where the full sales prices, including cost of 
+updates, is shown on the original commercial invoice? Are 
+duties/taxes paid on that amount? What happens when the updates 
+are sent at a later date? Are duties/taxes applied again? If so, 
+based on what value? How should information be presented on the 
+commercial invoice for the original and subsequent shipments to 
+avoid paying duties/taxes more than once on a single sale? 
+ 
+Sales tax of 13% is applied on the sales invoice. The best way to 
+answer the sub-questions is to see everything paid as sales tax 
+upon importing a product. 
+(Source: Jordan Computer Society) 
+ 
+¶C.   Are software licenses classified in harmonized system 4907? 
+Are import duties/taxes applied?  If yes, on what cost/price base 
+are they levied? Are withholding or other additional taxes applied 
+on software licenses? If yes, how are the taxes applied? 
+ 
+Software is subject to 13% sales tax, and a fixed value inspection 
+fee only. Software licenses are not subject to customs. 
+(Source: Jordan Computer Society) 
+ 
+¶D.   If a U.S. License Agreement is included in the packaging or 
+is part of the installation/registration of shrink-wrapped 
+software imported from the U.S., would the agreement be binding on 
+consumers in your market? If so, would U.S. or local laws pertain? 
+Definition of shrink-wrapped software: shrink-wrapped software is 
+software that is packaged with a terms and conditions statement, 
+ready for installation by the purchaser. 
+ 
+As Jordan is enforcing its TRIPS-consistent Intellectual property 
+Law, license agreements are binding to Jordanian customers. 
+However, software censorship is still in effect in Jordan, and 
+some software (FPP, and Shrink wrap) is opened and checked by the 
+Censorship office of the Ministry of Information. 
+(Source: Jordan Computer Society) 
+ 
+¶E.   Are services (i.e. training, set-up, etc.) relating to the 
+sale of software taxed? If so, at what rate and based on what 
+value? (1) Are US information technology solution providers 
+permitted to send personnel into the country to set up 
+hardware/software related systems? (2) Are special visas/work 
+permits and/or professional certification by an accredited body 
+required? 
+ 
+Services are subject to 13% sales tax. The value is based on the 
+amount billed to the customer. 1) Yes 2) Invitation letter may be 
+needed to obtain a visa. Certain limitations may apply on certain 
+nationalities (regardless of the company they work with) 
+(Source: Jordan Computer Society) 
+ 
+¶F.   Are import taxes (VAT, etc) applied to software delivered to 
+the end-user over the Internet? If so, are the taxes assessed on 
+the intellectual value of the property? Would the situation be 
+different if the is software were instead delivered to a 
+distributor who has a license to produce (Replicate) and sell the 
+software? 
+ 
+All software and services are subject to sales tax regardless of 
+the source (distributor, download, etc). However, the GOJ does not 
+have an efficient system to monitor and tax downloaded software 
+whether or not intended for re-sale. 
+(Source: Jordan Computer Society) 
+ 
+¶G.   Is post aware of any laws or efforts to regulate voice over 
+Internet protocol (VOIP) services in your country? Please name the 
+specific Law, Government Agencies with jurisdiction, and contact 
+information. 
+ 
+VoIP is regulated and is not currently available in Jordan. Jordan 
+Telecom has exclusivity rights over all international calls, 
+regardless of technology, until the end of 2004. The regulatory 
+body is: 
+Telecommunications Regulatory Commission 
+www.trc.jo 
+Tel. +962(6) 586-2027 
+Fax. +962(6) 586-3643 
+Ms. Muna Nijem - Chair of the Board of Commissioners 
+Mr. Mahmoud Wreikat - Technical & Licensing Affairs 
+Ms. Hoda Izz-Iddin - Head Of The Legal Department 
+(Source: Jordan Computer Society) 
+(Source: Information Technology Association - Jordan; INTAJ) 
+¶3.   (u)  QUESTIONS ON CUSTOMS PROCEDURES RELATED TO IT PRODUCTS: 
+ 
+¶A.   What are the documentation requirements for the physical 
+import of software? For other information technology products? 
+ 
+The Required Documentations are: Invoice, Certificate of Origin, 
+and Customs Declaration. 
+(Source: Jordan Computer Society) 
+ 
+Jordan Institute of Standards and Metrology (JISM) does not have 
+any standards specific to IT hardware and software products. JISM 
+has a Labeling Standard applicable to all imports, including all 
+IT products. 
+(Source: Jordan Institute of Standards and Metrology; JISM) 
+ 
+¶B.   What are the documentation requirements for the 
+electronically delivered import of digitized products over the 
+Internet or other networks i.e. software, movies downloads)? 
+ 
+Not Applicable. 
+(Source: Jordan Computer Society) 
+ 
+¶C.   Is the import of refurbished computer hardware, parts, and 
+accessories (including toner cartridges) permitted? If yes, what 
+are the documentation requirements? Is special labeling required? 
+What value should be should be shown of the invoice? How are 
+duties and taxes assessed? 
+¶D. Is the import of used computer hardware, parts, and 
+accessories permitted? If yes, what are the documentation 
+requirements? Is special labeling required? What value should be 
+shown on the invoice? How are duties and taxed assessed? 
+ 
+Yes it's permitted to import refurbished and used computers if 
+import license is available. 
+(Source: Jordan Computer Society) 
+ 
+The Ministry of Industry and Trade has the following relevant 
+requirements for importation of used and refurbished electrical 
+equipment: 
+¶1. To comply with approved Jordanian and International standards 
+¶2. To be ready for immediate use without any further modification 
+and to be compatible with Jordan's 220 volts electric grid without 
+the use of transformers. 
+¶3. Imported shipments should include new spare parts at a value of 
+15% of the total shipment. 
+¶4. A certificate either by the manufacturer or the authorized 
+dealer at the country of export to accompany the shipment that 
+stats that the equipment is not more than three years old; to be 
+legalized by the exporting country's chamber of industry or trade, 
+the Jordanian Embassy or Consulate and the exporting country's 
+Ministry of Foreign Affairs. 
+¶5. 1 piece per kind of equipment accompanying passengers for 
+personal use are exempt from these requirements. 
+(Source: Jordan Ministry of Industry and Trade) 
+ 
+¶E.   Are duties and taxes assessed on the re-import of repaired 
+computer equipment? How should the commercial invoice appear? 
+ 
+Taxes will be paid on the Added Value. 
+(Source: Jordan Computer Society) 
+ 
+¶F.   Some companies allege that certain countries (such as Greece, 
+and South Korea, among others) require that cross-border, 
+electronically delivered software be accompanied by a physical 
+shipment. Is this true for your country? If so, by what government 
+agency (please give contact information), and how is this activity 
+enforced (please specify the name of the appropriate law or 
+regulation)? 
+ 
+This is not applicable in Jordan. 
+(Source: Jordan Computer Society)

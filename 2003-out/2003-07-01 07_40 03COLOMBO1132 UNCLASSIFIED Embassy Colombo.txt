@@ -1,0 +1,219 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+010740Z Jul 03UNCLAS SECTION 01 OF 03 COLOMBO 001132 
+ 
+SIPDIS 
+ 
+STATE FOR SUSAN LOCKWOOD/ AZZA MOUNIB-ZAKI; 
+INFO: ECA/PE/V/G/N-ALICE SHIFFLETT; SA/PD 
+ 
+E.O. 12958: N/A 
+TAGS: OEXC SCUL KPAO OEXC
+SUBJECT: FY-2004 IV PROGRAM: SRI LANKAN NOMINATION FOR 
+MRP ON "U.S.TRADE POLICY AND THE WORLD ECONOMY": 
+APRIL 8-29, 2004 
+PROJECT NUMBER: E/VP-2004-0019 
+ 
+REF: (A) STATE 96276, (B) COLOMBO 0676 
+ 
+¶1. POST NOMINATES MS. GOTHAMI INDIKADAHENA, DEPUTY 
+DIRECTOR OF COMMERCE, FOR PARTICIPATION IN SUBJECT 
+PROJECT. 
+ 
+¶2. NOMINATION IS AS FOLLOWS: 
+START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.5 
+POST-EMAIL: rscmb@pd.state.gov 
+TRANSMITTING-POST: PAS  Colombo 
+TRANSMITTING-POST-ID: 2929 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VP 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 93 
+ECA-PROJ-NO: E/VP-2004-0019 
+PROJ-NAME: U.S. Trade Policy and the World Economy - 
+April 8-29, 2004 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Multi-Regional 
+PROG-TYPE: IV Group Projects 
+FY: 2004 
+DEPART-POST: 04/06/2004 
+SESSION-DATE: 04/08/2004 
+RETURN-POST: 05/02/2004 
+NO-OF-PART: 1 
+RANK-ORDER: 10 
+START MEMO POST-OBJ: 
+This nomination is in support of MPP goal on "Economic 
+Policy and Security" 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1027 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: MRP 
+PROG-TYPE-ID: 31 
+NOMINATING-POST-ID: 2929 
+FUNDING-CNTRY-ID: 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Trade 
+START BIO: 
+PREFIX: Mrs 
+F-NAME: Gothami 
+M-NAME: 
+L-NAME: INDIKADAHENA 
+SUFFIX: 
+POSITION-CODE: 0 
+PRINCIPAL?: Yes 
+M-ADDR1: Department of Commerce 
+M-ADDR2: 4th Floor, Rakshana Mandiraya Bldg. 
+M-ADDR3: Vauxhall Street 
+M-CITY: Colombo 2 
+M-STATE: 
+M-CNTRY: Sri Lanka 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: 
+M-FAX: (94-1) 330-366 
+M-EMAIL: 
+M-CNTRY-ID: CE 
+M-ADDRTYPE: B 
+GENDER: F 
+DOB: 10/10/1962 
+MAR-STAT: M 
+BIRTH-CITY: Colombo 
+BIRTH-CNTRY: Sri Lanka 
+CITIZ-CNTRY: Sri Lanka 
+RES-CNTRY: Sri Lanka 
+START MEMO POSITION: 
+Deputy Director of Commerce, September 1999- to date 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+ 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+June-December 2002 - Minister Counsellor (Economic and 
+Commercial) Permanent Mission of Sri Lanka to the UN, 
+Geneva, Switzerland 
+September 1998-May 2002 - First Secretary (Economic and 
+Commercial)  Permanent Mission of Sri Lanka to the UN, 
+Geneva, Switzerland 
+Jan. 1997-August 1998 - Senior Assistant Director of 
+Commerce 
+Sept. 1993-December 1996 - Consul for Sri Lanka, 
+Consulate of Sri Lanka in Mumbai, India 
+1988- Aug. 1993 - Assistant Director of Commerce 
+1987-88 - Assessor, Department of Inland Revenue 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+None 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+ 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+B.A., University of Peradeniya, 1985 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+ 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+ 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Sinhala 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START MEMO NOM-POST-OBJ: 
+This nomination is in support of MPP goal on "Economic 
+Policy and Security" 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Will Avery 
+START MEMO NOMINATING-JUSTIFICATION: 
+Mrs. Indikadahena has recently returned from an 
+assignment with the Sri Lanka Mission at the UN in 
+Geneva.  During this period, Mrs. Indikadahena has able 
+to actively participated in WTO negotiations and was 
+involved in formulating developing country positions. 
+She has a strong understanding of WTO laws and 
+principles.  Currently, she is assigned to the Commerce 
+Department of Sri Lanka as Deputy Director.  She is 
+engaged in work related to multilateral issues, 
+including WTO negotiations and bilateral trade. 
+We hope the experience of meeting a wide cross section 
+of US policy makers, visiting institutions of interest, 
+and meeting counterparts from around the world will 
+broaden her outlook and also give her an understanding 
+of US trade policy background.  In particular, due to 
+her strong familiarity with developing country issues, 
+we expect that an exposure to US trade policy making 
+will give her a balanced view of global trade issues. 
+Mrs. Indikadahena's participation in this program will 
+help to develop better cooperation on trade matters 
+including WTO issues, and make progress towards a FTA 
+using TIFA discussions. 
+ 
+ 
+ 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ECON 
+SPEAKER?: No 
+NOTIFY-EMB: Yes 
+MEDIA?: No 
+HOME-STAY: Yes 
+HOME-HOSP?: Yes 
+E-I-TYPE: 
+NOMINEE-ID: 127 
+PERSON-ID: 131 
+BIRTH-CNTRY-ID: CE 
+CITIZ-CNTRY-ID: CE 
+RES-CNTRY-ID: CE 
+FIRST-LANG-ID: SI 
+E-I-TYPE-ID: 
+NOM-POST-ID: 2929 
+NOM-FUNDING-CNTRY-ID: 
+NOM-STATUS: N 
+DS2019-ACTION: 0 
+DS2019-SUBJECT: 52.1101 
+SPONS-FUNDS: 0 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 0 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+ 
+¶3. PLEASE ADVISE ACCEPTANCE OF THIS NOMINATION. 
+CAMP

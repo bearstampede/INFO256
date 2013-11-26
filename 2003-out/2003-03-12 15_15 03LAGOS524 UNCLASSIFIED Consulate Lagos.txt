@@ -1,0 +1,304 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 04 LAGOS 000524 
+ 
+SIPDIS 
+ 
+ 
+E.O. 12958: N/A 
+TAGS: ECON EINV EFIN NI
+SUBJECT: DON'T SHOW ME THE MONEY; NIGERIA GOING 
+CASHLESS 
+ 
+¶1. SUMMARY:  As in many developing economies with high 
+inflation and a devalued currency, consumers in Nigeria 
+often must bring literally bags of money to the store 
+to make even routine purchases.  Checks are used almost 
+exclusively for business-to-business transactions, and 
+credit cards are accepted almost nowhere. Recently, the 
+use of pre-paid debit cards (known here as smart cards) 
+has been on the rise, and marketers hope the trend will 
+continue.  In fact, the U.S. Consulate General in Lagos 
+recently began accepting a smart card as the exclusive 
+payment method for nonimmigrant visa transactions, and 
+the British High Commission has followed suit.  Two 
+brands of smart cards backed by bank consortia are 
+leading the market, each with its own unique market 
+niche.  These novel businesses, along with others in 
+the finance industry that are considering ways to bring 
+revolving credit to the country, are banking on the 
+radical concept that a significant part of the Nigerian 
+economy may become cash-less in the coming years.  END 
+SUMMARY. 
+ 
+ 
+------------------------------------- 
+A BAG OF MONEY FOR A BAG OF GROCERIES 
+------------------------------------- 
+ 
+ 
+¶2. Nigeria remains almost exclusively a cash-based 
+economy.  Checks are not used at the consumer level, 
+but rather are the province of business-to-business 
+transactions.  Credit cards are used almost nowhere, 
+both because of fraud concerns and because revolving 
+credit is not widely offered by Nigerian banks. 
+Occasional ATM machines can be found, but debit cards 
+are not in use.  Consumers in Nigeria must thus use 
+cash for almost all transactions, whether it be the 
+purchase of a bag of ground nuts from a street hawker, 
+the purchase of a family's groceries in a supermarket, 
+or the purchase of a used vehicle from a neighbor. 
+Adding to the inconvenience, Nigeria's highest 
+denomination bill is the 500 Naira note; just under 
+four dollars.  Accordingly, Nigerians and expats alike 
+are accustomed to carrying small sacks of cash for any 
+single purchase ranging several hundred dollars or 
+more, for their weekend shopping, or for any in-country 
+travel.  Payday for Nigerians also commonly involves 
+the transfer of small bags or bricks of cash. 
+ 
+ 
+¶3. A new and growing financial product is slowly 
+changing the way Nigerians approach transactions. 
+Smart cards were launched in Nigeria almost five years 
+ago and are becoming increasingly available and 
+accepted for use, particularly in urban areas.  Smart 
+cards are reusable plastic cards containing an embedded 
+computer chip that records and manages a pre-loaded 
+balance of funds from which debits are deducted. 
+Industry sources report that smart card technology was 
+first widely utilized in France for secured access to 
+buildings.  The use of a computer chip to store and 
+manage data is considered less vulnerable to 
+unauthorized manipulation or to information theft than 
+the magnetic strips most commonly found on credit and 
+debit cards and access passes in the United States. 
+And while forms of disposable smart cards are used in 
+Europe and elsewhere for a variety of consumer 
+transactions, Paul Lawal, the Managing Director and 
+Chief Executive of the Nigeria Inter-Bank Settlement 
+System (NIBSS), told Econoff that the use of 
+reloadable, chip-based smart cards for financial 
+transactions is unique to Nigeria. 
+ 
+ 
+--------------------------- 
+THE PRODUCT AND THE PLAYERS 
+--------------------------- 
+ 
+ 
+¶4. Smart cards are generally offered and administered 
+by consortia of banks.  They are designed to make 
+transactions easier and safer for consumers by 
+providing an alternative to regularly carrying and 
+producing large quantities of cash.  Smart cards are 
+similar to debit cards used in the United States, 
+except the card is generally not associated with 
+deposits kept in an open account.  Instead, a consumer 
+obtains a card at a bank and loads a sum of money onto 
+it. The card carries the issuing bank's logo, and 
+transactions are associated with that bank.  When the 
+consumer makes a purchase at a participating vendor, 
+swiping the card and entering a personal identification 
+number (PIN), the vendor's card-reader debits the 
+balance on the card and stores the charge.  The vendor 
+periodically takes the stored data from the reader to 
+the bank or other card issuer that the vendor 
+contracted with to receive payment from the charges. 
+The bank or issuer then settles all outstanding charges 
+across the consortium through the NIBSS.  When the 
+consumer spends the balance loaded onto the card, he or 
+she simply reloads a new balance at the issuing bank. 
+Vendors are charged a fee per transaction, usually a 
+percentage of the transaction amount.  For example, the 
+US Consulate General is charged 1.25 percent per 
+transaction for its use of smart cards for visa 
+transactions.  But banks and other card issuers make 
+most of their profit from smart cards by using the 
+"float" generated, that is, by earning interest on or 
+investing the value of the deposits made by their 
+cardholders when loading the smart cards, before 
+charges are made and cleared. 
+ 
+ 
+¶5. Three companies offer smart cards in Nigeria, each 
+with a unique market niche.  The current leading smart 
+card brand is ValuCard, which was first introduced 
+nearly five years ago and is accepted by a wide variety 
+of stores and restaurants throughout Nigeria.  ValuCard 
+is backed by a consortium of approximately 40 banks, 
+including many of the largest and oldest in Nigeria. 
+ValuCard boasts that its consortium represents 90 
+percent of the country's banking system, and has over 
+3,000 vendors in 50 cities nationwide.  Using software 
+developed by the Irish company CardBase Technology, 
+ValuCard offers perhaps the simplest but most limited 
+product available, in that the card is primarily a 
+reloadable payment method using a PIN, while other 
+cards offer a variety of payment services and options. 
+Further, the ValuCard customer can load his or her card 
+only at a branch of the bank from which the card was 
+issued, not from any ValuCard dealer.  However, 
+ValuCard offered the first card on the market, is 
+backed by the largest banks in the country and employs 
+an extensive marketing campaign, making it the leading 
+brand in Nigeria.  ValuCard is gradually expanding the 
+capabilities of its card, but remains focused on the 
+essential nature of its product.  Paul Lawal of the 
+NIBSS estimates that ValuCard services 60 percent of 
+the smart card market. 
+ 
+ 
+¶6. SmartPay is the second leading brand of smart card 
+in Nigeria.  The U.S. company Retriever Payment Systems 
+holds a 98 percent interest in SmartPay, which has been 
+on the market for about three years.  SmartPay is 
+backed by a consortium of over 30 banks, but most are 
+medium and small banks with limited geographic focus. 
+Only a few banks participate in both SmartPay and 
+ValuCard.  Where ValuCard centered its development on 
+consumer marketing and vendor distribution, SmartPay 
+focused its initial efforts on the software it uses for 
+transactions and offers a product of greater 
+versatility.  In addition to a reloadable, PIN-based 
+payment card, SmartPay offers a PIN-less function that 
+allows consumers to give their card to others to use up 
+to a relatively low-value ceiling (about $40).  For 
+example drivers may purchase fuel on behalf of their 
+employers without entering a PIN.  SmartPay cards can 
+be reloaded at any bank in the consortia, and SmartPay 
+offers debit card, ATM and credit functions to some of 
+its customers. Even though the SmartPay product is more 
+versatile and multifunctional than ValuCard, it has 
+suffered from a lack of marketing and is only now 
+attempting to garner a larger percentage of the smart 
+card market through strategic partnerships such as 
+foreign diplomatic mission consular services. 
+ 
+ 
+¶7. The third player in the Nigerian smart card industry 
+is SecureTrust.  SecureTrust was also founded some 
+three years ago by the former IT manager of ValuCard, 
+after his ideas for what he felt was superior 
+technology were ignored by the industry leader.  He 
+focused his fledgling company's product development on 
+the technology of the smart card, using product design 
+and software developed by Visa and Proton Technology of 
+Belgium.  SecureTrust remains a very small player; it 
+is backed by only two or three banks, and is not used 
+by many consumers or recognized by many vendors. 
+ 
+ 
+----------------------------------------- 
+NOWHERE TO GO BUT UP - A VERY LONG WAY UP 
+----------------------------------------- 
+ 
+ 
+¶8. NIBSS estimates that the use of smart cards for 
+financial transactions has increased roughly 30 percent 
+in the last 18 months.  However, data on the size of 
+the smart card market is conflicting.  While the 
+Managing Director of SmartPay states that the current 
+market totals only 100,000 cards, ValuCard asserts that 
+by the end of 2002 it had issued 180,000 cards. 
+ValuCard also claims an impressive and steady increase 
+in the value of its transactions per year since 1999, 
+when it recorded transactions worth 300 million Naira 
+($2.4 million). ValuCard reports that consumers used 
+its card for transactions worth one billion Naira ($8 
+million) in 2000, six billion Naira ($47.6 million) in 
+2001, and over 16.6 billion Naira ($131.7 million) in 
+¶2002. 
+ 
+ 
+¶9. Still, according to NIBSS, 80 percent of consumer- 
+level transactions involve cash transfers, and 15 
+percent are paid by check, leaving smart card companies 
+vying for a very small slice of Nigeria's market 
+transactions.  Nonetheless, NIBSS Chief Executive Lawal 
+notes a definite upward trend in the use of smart cards 
+amongst the educated population, which tends to have 
+more disposable income.  Along with mobile phones and 
+imported clothes, Lawal observes that educated, 
+professional Nigerians are using smart cards as a 
+status symbol, and predicts the demand for cashless 
+transactions will continue to rise amongst this 
+important segment of consumers as they become 
+increasingly accustomed to the use of credit and debit 
+cards in the United States and Europe.  Noting this 
+trend, Lawal told Econoff that financial institutions 
+in Nigeria are developing plans for revolving credit 
+accounts, and NIBSS is studying the telecommunications 
+infrastructur requirements and improvements needed in 
+the country to sustain debit card transactions. 
+ 
+ 
+¶10. The U.S. Consulate General Lagos began accepting 
+ValuCard as the exclusive method of payment for 
+nonimmigrant visa fees in December 2002, in addition to 
+its use for occasional warehouse disposal sales and 
+fees associated with the Educational Advising Center. 
+Similarly, the British High Commission in Abuja 
+launched a ValuCard payment system on March 4, 2003. 
+Both of these developments will cause a significant 
+increase in the issuance of smart cards, as each 
+country's diplomatic mission in Nigeria services tens 
+of thousands of applicants each year, and card issuers 
+are pitching other missions to follow suit.  Smart card 
+issuers also hope that the acceptance of ValuCard by 
+foreign missions will translate into an increase in the 
+number of vendors accepting their cards, as consumers 
+across socio-economic strata become aware of the 
+product and demand the service from merchants. 
+ 
+ 
+¶11. COMMENT: There are limits to going cashless in 
+Nigeria.  The unofficial economy -- the street vendors, 
+hawkers, and product and service providers who come to 
+their customers' homes and whose marketing is 
+exclusively word-of-mouth -- is a major part of the 
+Nigerian economic structure and social fabric.  Until 
+smart card readers are made available to these 
+merchants and craftsmen, cash will remain the 
+overwhelmingly predominant method of payment in 
+Nigeria.  Also, Econoff has heard complaints that smart 
+card readers are inoperable frequently enough that 
+consumers feel the need to carry cash anyway and simply 
+use their smart card where possible. 
+ 
+ 
+¶12. COMMENT CONTINUED: Nonetheless, if demand does 
+continue for this product, banks may develop the 
+infrastructure needed to support other products and 
+services such as revolving credit accounts and debit 
+transactions.  To do so would require extensive build- 
+outs to Nigeria's weak telecommunications 
+infrastructure, but and the rise of GSM use has made 
+land-line repair and expansion a low priority. Before 
+credit and debit become widely used, Nigeria will 
+require further anti-fraud advances, both in prevention 
+and prosecution.  Today, even where credit cards are 
+accepted, mostly in a few hotels in Abuja and Lagos, 
+most residents and visitors to Nigeria dislike using 
+them for fear of financial crime.  If security 
+improves, increased electronic transfers of funds could 
+help reduce petty corruption and embezzlement because 
+less cash would change hands, and law enforcement could 
+better monitor and trace transactions. 
+ 
+ 
+¶13. COMMENT CONTINUED: In the meantime, smart card 
+companies may continue to see large increases in the 
+value of transactions.  Even if the number of 
+transactions or cards issued remains relatively limited 
+in scope or grows flat, more people will use cards for 
+big-ticket items like vehicle purchases.  Any 
+significant or prolonged currency depreciation should 
+make smart cards even more attractive to consumers. 
+Ultimately, like most business opportunities in 
+Nigeria, there is money to be made in the smart card 
+and related services industry, if companies accept the 
+challenges of weak infrastructure and vulnerable 
+security.  END COMMENT. 
+ 
+ 
+HINSON-JONES

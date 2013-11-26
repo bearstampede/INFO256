@@ -1,0 +1,103 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 02 COLOMBO 000742 
+ 
+SIPDIS 
+ 
+E.O 12958:N/A 
+TAGS: ECPS ECON ETRD CE ECONOMICS
+SUBJECT: WI-FI SURVEY, SRI LANKA 
+ 
+REF: STATE 85946 
+ 
+¶1.  Post response to reftel Wi-Fi survey request 
+follows: 
+ 
+A)  Has host country allocated unlicensed radio- 
+frequency spectrum for use by Wi-Fi and similar 
+wireless technologies or is it planning to do so?  If 
+so are there separate allocations for indoor and 
+outdoor use?  Alternatively, is host country planning 
+to authorize Wi-Fi services as low-power devices 
+without a specific radio-service allocation? 
+ 
+--  At the moment Wi-Fi is a licensed service and 
+allowed in the 2.4GHz and 2.43GHz band.  Sri Lanka 
+has not allocated unlicensed radio frequency spectrum 
+for Wi-Fi or any similar technologies. 
+ 
+--  Sri Lanka is planning to allocate the full 2.4GHz 
+ISM band for indoor and part of 2.4GHz ISM band for 
+outdoor use with certain power level restrictions in 
+both categories. 
+ 
+--  Telecommunications authorities are exploring the 
+possibility of making this license-exempt either for 
+private or commercial use or both.  But no decision 
+has been made yet. 
+ 
+B)  Can Wi-Fi systems be used without a license in 
+host country?  If licenses are required what briefly 
+are the licensing procedures? 
+ 
+--  Presently, Wi-Fi systems cannot be used without a 
+license.  The applicant should forward an application 
+form with the copy of specifications.  If technical 
+details are satisfactory, approval will be given and 
+an annual license is issued upon the payment of a 
+fee. 
+ 
+C)  Can Wi-Fi systems be used for commercial purposes 
+without a license? 
+ 
+No 
+ 
+D)  Are there any commercial Wi-Fi networks that 
+provide service to the public currently operating in 
+host country? 
+ 
+Yes 
+ 
+E)  Can post provide any examples of how Wi-Fi is 
+currently being used in host country?  We are 
+particularly interested in developing country 
+examples that demonstrate how Wi-Fi can be used to 
+create digital opportunity and address social and 
+economic challenges. 
+ 
+-- Currently, the Telecommunications Regulatory 
+Commission does not permit unlicensed operation in 
+2.4GHz band.  License operators are permitted to use 
+802.2 lb equipment with 30 MHz slot from 2.4 GHz to 
+2.43 GHz on shared basis.  The licensees fall into 3 
+groups. 
+ 
+-- 1.  Four facility-based data operators are using 
+this and other technologies to provide public 
+(commercial) data services, primarily Internet 
+access.  The maximum allowable output power for this 
+category is limited to 1 Watt.  This is for longer 
+distance outdoor applications. 
+ 
+-- 2.  Four other large organizations are authorized 
+to use the same 30Mhz band with a maximum power of 
+100mW.  These users are permitted to use external 
+antenna and allowed to transmit within their 
+premises. 
+ 
+-- 3.  Other small users are allowed to use this 
+equipment within (the above mentioned) 30Mhz band 
+with a maximum power of 100mW and are not permitted 
+to use other antennas except the original equipment 
+antennas. 
+ 
+F)  We welcome whatever additional information about 
+Wi-Fi related host country developments that post 
+believes might be helpful.  Such information could 
+include: Is Wi-Fi in use in rural areas?  If so how 
+is "backhaul" connectivity provided to the Wi-Fi 
+system (i.e., via satellite, DSL lines, cable TV 
+networks)? Are there any longer distance (beyond 100 
+meters outdoors) Wi-Fi networks in use in-country? 
+How many Wi-Fi units have been sold in host country? 
+-- The usage in rural areas is very limited.  The 
+backhaul connectivity is normally through DSL lines. 
+WILLS

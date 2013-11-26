@@ -1,0 +1,159 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS E F T O SECTION 01 OF 02 THE HAGUE 003039 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+NOFORN 
+ 
+STATE FOR AC/CB, NP/CBM, VC/CCB, L/ACV, IO/S 
+SECDEF FOR OSD/ISP 
+JOINT STAFF FOR DD PMA-A FOR WTC 
+COMMERCE FOR BIS (GOLDMAN) 
+NSC FOR CHUPA 
+WINPAC FOR PEASE 
+ 
+E.O. 12958: DECL: 12/10/2013 
+TAGS: PARM PREL CWC
+SUBJECT: CHEMICAL WEAPONS CONVENTION (CWC): MEETINGS WITH 
+TECHNICAL SECRETARIAT ON IT ISSUES 
+ 
+ ¶1.  (U) This is CWC-134-03. 
+ 
+¶2.  (U) Del reps met on 24 November 2003 with OPCW Technical 
+Secretariat (TS) Administration Division head Herb Shultz and 
+ 
+SIPDIS 
+Information Support Branch head Greg Linden to relay U.S. 
+concern regarding the pace of the TS effort to achieve a 
+working digital information technology (IT) system.  The 
+system would include TS acceptance of States Parties 
+electronic submissions of their industrial data declarations, 
+TS provision to States Parties' redacted data declarations in 
+ 
+SIPDIS 
+electronic format, and TS ability to store, protect, and 
+manipulate digital information it obtains. 
+ 
+¶3.  (U) Del reps relayed Washington's concern that TS 
+implementation of electronic data processing and analysis of 
+data declarations was projected to take two years and queried 
+ways that the work might be completed more expeditiously. 
+Reps inquired whether increased funding or provision of 
+"cost-free" experts would speed the process.  Shultz and 
+Linden responded that at this point, additional resources 
+would not necessarily speed the process; the TS effort was 
+exactly where it needed to be.  They promised to reconsider 
+whether additional resources might advance the project more 
+quickly and advise Del reps accordingly. 
+ 
+¶4.  (U) Shultz and Linden reviewed the history of the 
+CTFS/RDBMS development effort, summarized why the proposed 
+additional time/effort was necessary, and discussed why 
+additional resources may not be the answer.  They noted that 
+four ISB personnel are dedicated to this effort, and about 
+the same number of staff are dedicated to the TS' 
+contractor's efforts in Washington, noting that this level of 
+effort put the CTFS/RDBMS integration effort at the top of 
+ISB's task list. 
+ 
+¶5.  (U) Shultz and Linden noted that part of Linden's initial 
+task after he joined the OPCW earlier this year was to bring 
+into the process senior Verification and International 
+Cooperation Divisions managers (Horst Reeps, Carlos 
+Trentadue, Magda Bauta), as well as other potential future TS 
+users.  ISB personnel worked with them to determine data and 
+analytic needs, to co-opt them in the development process so 
+that the software developed by ISB meets TS users' needs and 
+is not ignored.  They noted that for the first time in OPCW 
+history, TS users are engaged in the requirements end and are 
+supportive of ISB's effort.  Their input has changed the 
+RDBMS functionality requirements, software on which TS 
+development ceased around 1999.  Users' required capabilities 
+include UDOC site selection, verification reporting, and 
+other cross-TS tasks. 
+ 
+¶6.  (U) Shultz and Linden noted that the development effort 
+is an incremental process, and functionality will be brought 
+on line as it becomes available; the TS won't wait until 
+everything is completed to begin its advertising and 
+marketing efforts.  Indeed, they expect that an EDIT/RDBMS 
+testbed will be available for demonstration to interested 
+delegations and TS units in mid-January.  Linden also noted 
+that the TS could accept electronic data submissions now, but 
+they would have to be printed off and data entry clerks 
+re-enter the data into the current ACCESS databases.  The TS 
+currently does not have the capability to receive and 
+securely store large amounts of digital data.  Linden also 
+promised to provide Del reps a short summary of the tasks, 
+costs, and timelines envisaged. 
+ 
+¶7.  (U) Del reps noted that the U.S. needs to be able to 
+submit electronic declarations as soon as possible, and to 
+receive redacted declarations of other SPs in electronic 
+format.  The TS needs to be able to manipulate digital data 
+in order to minimize clerical errors resulting from data 
+entry as well as to be better able to analyze declarations to 
+get a more complete picture of chemical activities relevant 
+to the Convention.  Linden responded that it might be 
+possible to provide redacted declarations in an adobe-type 
+format, pages of text that would be machine searchable, as a 
+first step.  Del reps welcomed the idea, and encouraged the 
+TS to provide more details. 
+ 
+SIPDIS 
+ 
+¶8.  (SBU) Del reps discussed the problem of the U.S. 
+footprint on the software development effort.  Shultz 
+re-emphasized the existing suspicions of other delegations 
+and non-U.S. TS personnel regarding the U.S. effort and the 
+importance of the TS being able to sell the integrated system 
+as a TS product.  Del reps, Shultz and Linden agreed to 
+minimize the apparent U.S. engagement on the issue by having 
+monthly lunches offsite where Linden and Shultz would provide 
+del reps updates on status and problem areas, probably 
+beginning in mid-January 2004, after the massive TS software 
+upgrade and data migrations are completed. 
+¶9.  (SBU) In a short conversation on 2 December, Linden 
+advised Del rep that he had drafted the short memo requested 
+by the del reps summarizing TS plans and timelines for 
+integrating the CTFS (renamed EDIT within the TS), the RDBMS, 
+and security shell, and introducing the new TS capabilities 
+to both the TS and States Parties.  Rather than providing it 
+to only the U.S. delegation, the DDG Brian Hawtin requested 
+that the document be published as a formal TS document, to 
+begin the TS campaign to advise States Parties of its plans 
+regarding electronic industry data submissions and the 
+associated timelines.  The document is still under review and 
+will be issued in the next few weeks. 
+ 
+¶10.  (U) At the request of AC/CB, Del rep set up a short 
+meeting with Shultz and Linden on the margins of EC-36. 
+AC/CB rep relayed its support for Linden's efforts.  Linden 
+welcomed a VC/CCB suggestion that the TS ask the regional 
+groups to provide volunteers to submit electronic industrial 
+data declarations once the TS is ready to test its new 
+system.  VC/CCB also raised the issue of States Parties that 
+independently developed their own read/write software for 
+making electronic industry declarations and asked Linden 
+whether ISB was considering developing software interfaces 
+for the TS system in these instances.  Linden cited his 
+concern regarding a recent meeting with the facilitator on 
+the Declarations Handbook (Ruck - Germany), noting that the 
+software developers had been unaware that declaration formats 
+could still change and emphasizing the severe impact on 
+timelines such changes would have for the TS software 
+development effort.  Linden cited his concern regarding a 
+recent meeting with the facilitator on the Declarations 
+Handbook (Ruck - Germany), noting that the software 
+developers had been unaware that declaration formats could 
+still change and emphasizing the severe impact on timelines 
+such changes would have for the TS software development 
+effort.  (Note: Subsequently, Commerce rep noted that Ruck 
+has been instructed not to tinker with declaration 
+formats--specifically the 'tabular' formats--until the CTFS 
+was in place.  Ruck is addressing how States Parties input 
+data into specific fields, not changing which fields would 
+need to have data entered.) 
+ 
+¶11.  (U) Ito sends. 
+SOBEL

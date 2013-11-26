@@ -1,0 +1,377 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.UNCLAS SECTION 01 OF 05 AMMAN 007392 
+ 
+SIPDIS 
+ 
+SENSITIVE 
+ 
+PASS TO EXIMBANK 
+USDOC/4520/ITA/MAC/ONE/PTHANOS 
+ 
+E.O. 12958: N/A 
+TAGS: ECPS EINV JO
+SUBJECT: THIRD (OR FOURTH?) MOBILE LICENSE TENDER PROVOKES 
+DEBATE 
+ 
+ 
+¶1. (SBU) SUMMARY: Jordan's Telecommunications Regulatory 
+Commission (TRC) has announced a tender for what is being 
+billed as a third mobile telephony license in anticipation of 
+the January 1, 2004 end of the current mobile telephony 
+duopoly under its WTO obligations.  The tender has provoked 
+unfavorable commentary from several observers, including the 
+current duopolists and a start-up that plans to exercise its 
+option to expand its current license to include mobile 
+telephony.  Despite the flak, the TRC - with full support of 
+the Ministry of Information and Communications Technology 
+(MOICT) - appears determined to press on with a process that 
+it believes will bring a necessary degree of competition to 
+an undercompetitive market. END SUMMARY. 
+ 
+--------------------------- 
+THE EXISTING MARKET PLAYERS 
+--------------------------- 
+ 
+¶2. (SBU) Mobile telephony in Jordan was established by 
+Fastlink, a consortium of several prominent 
+Palestinian-Jordanian businessmen, in 1994.  Fastlink (later 
+bought by Kuwaiti mobile duopolist MTC) held a monopoly in 
+mobile telephony until 1999, when a second license was 
+granted to MobileCom, a subsidiary of Jordan,s fixed-line 
+monopolist JTC.  The entry of MobileCom into the market has 
+had a substantial effect on mobile prices, reducing them by 
+up to 50 percent in some cases.  However, MobileCom has never 
+been able to present a serious challenge to Fastlink.  It 
+currently holds a market share of 25 percent of mobile 
+subscribers and 20 percent of mobile telephony revenues to 
+Fastlink,s respective 75 percent and 80 percent shares. 
+This ratio has stayed essentially constant since early 2002, 
+and there has been almost no growth in the total number of 
+subscribers ) approximately 1.2 million ) since the 
+beginning of 2003.  Under Jordan,s WTO entry agreement, the 
+mobile telephony market must be opened to free competition by 
+January 1, 2004. 
+ 
+¶3. (SBU) A related trunking license was granted in April 2003 
+to paging service operator Mirsal, which transferred the 
+license to the New Generation Telecommunications Co. 
+(NewGen).  NewGen plans to build a national network of 
+Push-to-Talk (PTT) operations, using Motorola,s iDEN 
+technology to create a service similar to that offered in the 
+United States by Nextel, and it has applied for Ex-Im Bank 
+support to purchase its Motorola inputs.  The PTT services 
+would likely be almost exclusively sold to the high-end 
+corporate and government markets, but NewGen will have the 
+option to provide other services, including broad-based 
+consumer mobile telephony, from the beginning of 2004. 
+ 
+----------------- 
+THE MOBILE TENDER 
+----------------- 
+ 
+¶4. (SBU) On October 13, the TRC released a public notice 
+outlining proposed terms and conditions for the issuance of 
+another license for mobile telephony services.  A public 
+forum held October 23 on the issue invited questions and 
+comments on the structure of the license, before the 
+structure was finalized October 31.  The TRC has structured 
+the tender as a two-step process, in which a 
+pre-qualification phase is followed by submissions for tender 
+of pre-qualified applicants and their associated partners. 
+These submissions will be evaluated in a "beauty contest" 
+rather than in a straight bid.  The pre-qualification will 
+exclude bidders without substantial previous experience in 
+mobile telephony as well as those already owning a 
+significant stake in a current mobile operator or another 
+eligible bidder.  The pre-qualification submissions are 
+tentatively scheduled to be due by mid-December, and the 
+tender submissions by the pre-qualified applicants would be 
+due by mid-February, 2004.  A decision would then be reached 
+on the winner by the beginning of March 2004. 
+ 
+¶5. (SBU) The beauty contest conducted among the bids of the 
+pre-qualified applicants will be based on the proposed design 
+and implementation of the network (e.g., the proposed area of 
+coverage and proposed timetable for rollout of services), the 
+proposed marketing, pricing, and overall business plans, the 
+proposed provisions for customer care (e.g., the proposed 
+methodology for billing and collections), and a catchall 
+category labeled "Additional Measures to Benefit Jordan" 
+which would include such proposals as establishment of local 
+R&D facilities and telecom training programs or the extension 
+of telephony services to under-served segments of the 
+population such as rural residents or the handicapped.  The 
+successful bidder will receive space in the 1800 or 1900 MHz 
+bands of the spectrum, currently used in part by the 
+Jordanian military, which will have to evacuate whatever 
+portion is eventually selected by the awardee.  To partially 
+compensate the existing operators and to create a more level 
+playing field, additional spectrum will be made available to 
+the incumbents based on need, technology limitations will be 
+removed from existing licenses, and other license 
+modifications will be made if need is demonstrated by 
+incumbents. 
+ 
+---------------------- 
+THE DUOPOLISTS RESPOND 
+---------------------- 
+¶6. (SBU) Fastlink and MobileCom have been quick to respond to 
+the October 13 TRC announcement.  Fastlink has repeatedly 
+filed requests for consultations with the TRC and have met 
+with the regulators with no apparent success.  They have 
+argued that the market cannot sustain another competitor and 
+that the introduction of such a competitor will guarantee at 
+least one bankruptcy, which could make potential investors 
+much more skittish about future investments in Jordan. 
+MobileCom has aired its concerns both privately with the TRC 
+and in public.  Continuing bad blood between the two 
+duopolists, evidenced in a recent suit filed by MobileCom 
+against Fastlink alleging industrial espionage, has prevented 
+the competitors from cooperating very effectively, however. 
+In an interview with the press, the chairman of MobileCom,s 
+parent JTC commented that the third mobile license makes no 
+economic sense, but expanded on this point to imply that the 
+reason for market failure in the current duopoly had been 
+Fastlink,s predatory pricing and other anti-competitive 
+activities. 
+ 
+¶7. (SBU) The constant carping has grown annoying to TRC 
+Chairman Muna Nijem, who began the October 23 open forum by 
+announcing that the extension of a third mobile license was 
+decided and not subject to debate; therefore any input and 
+questions would have to address the specific terms and 
+conditions of the license rather than the advisability of its 
+issuance.  She and the TRC are receiving strong support in 
+the decision to tender another license from Minister of 
+Informational and Communications Technology Dr. Fawwaz 
+Al-Zou,bi, who has supervisory authority over the TRC.  At 
+the October 23 forum, Zou,bi praised the virtues of free 
+competition and stated that the decision to grant another 
+license was irreversible and not something that the GOJ was 
+being forced into by the provisions of its WTO accession. 
+Jordan had made a conscious attempt to add this provision to 
+the entry agreement, with the aim of creating the kind of 
+market-opening expansion that the TRC,s offer of the new 
+license means to achieve.  Zou,bi reiterated this commitment 
+to the Ambassador in a November 2 meeting. 
+ 
+------------------------------- 
+IS THE MARKET UNDERCOMPETITIVE? 
+------------------------------- 
+ 
+¶8. (SBU) Despite the duopolists, apparent surprise at the 
+launching of the third tender, the TRC had telegraphed their 
+move for quite a while.  A study commissioned by the TRC and 
+carried out by USAID-funded AMIR program consultants reached 
+a conclusion, announced by Nijem in a speech in early 
+September, that the existing duopoly does not sufficiently 
+serve the Jordanian market, and that the addition of a third 
+operator would likely significantly reduce prices and 
+increase market penetration for mobile telephones.  Jordan,s 
+rate of mobile penetration in 2002 compares unfavorably with 
+penetration rates for the Gulf states, some of which are 
+served by monopolies, and the duopoly in Lebanon.  A 
+comparative study of small European countries that had 
+introduced a third operator showed that consumers had 
+realized substantial benefits from the increased competition. 
+ 
+¶9. (SBU) Fastlink predictably disagrees with the TRC,s 
+diagnosis of the market dynamics.  Saad Abu Odeh, chief 
+strategist for Fastlink, says that comparison of mobile 
+penetration between Jordan and states in the Gulf and Europe 
+overlooks dramatic differences in culture, demography, and 
+wealth.  Unlike in Europe, 38 percent of Jordan,s population 
+is under the age of 15 and therefore highly unlikely to be 
+able to pay for mobile phones or to receive them from 
+parents.  The 27 percent of Jordan,s population below the 
+poverty line (part of which would overlap with the population 
+under 15) could also be counted out of the relevant 
+population of potential mobile telephone users.  And lower 
+incomes of even those people above the poverty line creates 
+obstacles to mobile use not faced in Europe.  A regression 
+run by Fastlink plotting telecom penetration against per 
+capita GDP for countries in the region shows Jordan to be 
+above the trend line; i.e., relatively over-penetrated.  A 
+comparison of mobile telephony pricing by the Jordanian 
+duopolists with those charged by other operators in the 
+region showed the prices to be at the middle of the range, 
+outperforming duopolists in Morocco and Lebanon, for 
+instance, but falling short of the competitive rates charged 
+by monopolists in Bahrain (which will soon become a duopoly) 
+and the UAE. 
+ 
+------------------------- 
+NEWGEN: NOT JUST TRUNKING 
+------------------------- 
+ 
+¶10. (SBU) Besides, says Abu Odeh, there already is a third 
+mobile licensee: NewGen.  When NewGen completes its network 
+it will have full capability to offer consumer mobile 
+telephony services at relatively minimal additional expense; 
+given the small size of the high-end trunking market, it will 
+quickly look to mobile telephony as a source of additional 
+revenue.  Nashat Masri, son of a former Jordanian prime 
+minister and the Jordanian partner in the primarily 
+Saudi-funded NewGen consortium, confirms that the expansion 
+of services from a PTT base to full mobile telephony services 
+is already part of NewGen,s business plan, though he claims 
+that this "Phase 2" was not originally envisioned by the 
+consortium. 
+ 
+¶11. (SBU) Development of competing PTT services on GSM will 
+allow Fastlink to deploy PTT by as early as March, possibly 
+before NewGen is able to enter the market.  While NewGen,s 
+iDEN technology will allow it to provide higher-quality 
+service than that provided by Fastlink, Fastlink will still 
+enjoy incumbent advantages that will make it difficult to 
+displace, especially as it will be offering services similar 
+to those that will be offered by NewGen.  Also, says Masri, 
+the Jordanian military, which had originally seemed to be a 
+very large potential client for the PTT services that NewGen 
+would offer, has obtained approval to erect its own 
+proprietary trunking network.  Both of these developments 
+will cut into the revenues that NewGen had counted on in its 
+original business plan.  Masri expects the company to be able 
+to maintain profitability by exploiting its high-end 
+corporate niche. However, "the sustained double-digit profits 
+that foreign investors expect" are unreachable without moving 
+to expand the customer base by including regular mobile 
+telephony services quickly. 
+ 
+¶12. (SBU) Minister Zou,bi was questioned about this 
+possibility by the Ambassador.  Zou'bi said NewGen,s plan 
+makes little long-term business sense, since iDEN technology 
+will be unable to make the jump to third-generation mobile 
+telephony, expected to be present in Jordan in 10-12 years. 
+He said that he had tried to get that message to NewGen after 
+their initial application for a license.  Masri says that the 
+prospect of the eventual extinction of iDEN technology makes 
+it even more critical that NewGen,s network, once built, be 
+exploited to its fullest extent ) by expanding services to 
+include mobile telephony. 
+ 
+--------------- 
+WHO WOULD LOSE? 
+--------------- 
+ 
+¶13. (SBU) Expecting that a four-player mobile market will not 
+survive for long, observers are speculating about which 
+player would be the first to drop.  MobileCom is seen to be 
+in as much danger as any new licensee.  Unable to make money 
+even in a restricted market, MobileCom has an under-utilized 
+network (Fastlink estimates 40 percent utilization) and a 
+relatively price-sensitive customer base.  Unlike NewGen, it 
+will have no high-end niche to rely on to support it through 
+the inevitable price wars caused by the new entries; in fact, 
+MobileCom is expected to retain few, if any, of its corporate 
+clients in the face of PTT competition from both NewGen and 
+Fastlink.  While MobileCom has the backing of JTC (and 
+through JTC, France Telecom), JTC is unlikely to continue to 
+subsidize a money-losing subsidiary indefinitely, especially 
+given the scheduled end of JTC's own fixed-line monopoly on 
+January 1, 2005. 
+ 
+¶14. (SBU) MobileCom is putting a good face on things.  Its 
+statements of regret at the TRC's decision are pro forma when 
+compared with those of Fastlink.  Ahmed Salah, MobileCom's 
+Strategic Director, told us that while it would be impossible 
+for another mobile operator to recoup the cost of erecting 
+yet another network, it might be possible for a new entrant 
+to make money by using extra space on an existing operator's 
+network.  As Fastlink's network is already almost fully 
+utilized, only one network is currently available to be used 
+in this way: MobileCom's.  If such an arrangement were made, 
+it might even lead to a merger. 
+ 
+ 
+-------------------------- 
+WHY ISSUE ANOTHER LICENSE? 
+-------------------------- 
+ 
+¶15. (SBU) There is no shortage of conspiracy theories 
+purporting to explain the new license.  Masri claims that the 
+TRC has been pressured to issue another license by a 
+government that wants to prove that it is serious about its 
+WTO commitments, even at the cost of opening the possibility 
+of "ruinous competition."  Abu Odeh believes that the TRC 
+wishes to bury the mistakes it made with NewGen ) the lack 
+of transparency in the granting of a license and the decision 
+to give NewGen exclusive rights to use iDEN technology ) by 
+granting a new license, awarded transparently.  Other 
+observers cast doubt upon the transparency of the process 
+itself.  According to Motorola country manager Motaz Hourani, 
+there are rumors that the limited publicity of the new tender 
+and the short deadline for application are intentional, 
+because the TRC has a favored candidate ) perhaps original 
+Fastlink investors such as Ziyad Abu Jaber and Habib Ghawi ) 
+who will have a greater chance of winning a bid if interest 
+is low.  (Hourani adds that the named parties may be 
+spreading this rumor themselves in order to attract foreign 
+partners.)  The subjectivity of a beauty contest has fed this 
+perception, though it seems to make the most sense given 
+Jordan,s current telecom outlook. 
+ 
+¶16. (SBU) In defense, TRC's Nijem cites multiple expressions 
+of interest that she has received from both local and 
+international companies (the approximately 100 guests who 
+attended the public forum on the license appear to bear her 
+out).  South African mobile provider MTN is interested in the 
+deal.  They are said to see it as a low-cost way to enter the 
+region, from which they could expand to build networks in 
+other countries as their sectors begin to liberalize. 
+Bahrain's Batelco has entered discussions with at least one 
+local group.  Jordanians interested in the license calculate 
+that even with the acknowledged limitations, there is a 
+potential market of one million Jordanians (out of five 
+million residents) that is not being served and that could be 
+divided profitably between three operators.  None of these 
+potential bidders seem to have factored into their business 
+plans the prospect of a NewGen entry into the broad mobile 
+telephony market.  Abu Odeh dismisses the optimistic 
+predictions if these bidders: "There is a lot of 'stupid 
+money' out there, and it should be TRC,s role to protect the 
+sector from it and the investors from themselves." 
+ 
+------- 
+COMMENT 
+------- 
+ 
+¶17. (SBU) The decision to license a third/fourth mobile 
+provider is made.  It has the commitment of the TRC and 
+MOICT, has generated interest from domestic and foreign 
+potential investors, and has been approved in its finalized 
+form.  The issuance of the tender is a strong sign of 
+Jordan,s commitment to its WTO obligations and the free 
+market.  The pre-qualification requirements would seem to 
+preclude bids by consortia without a good understanding of 
+the economics of mobile telephony.  Still, it is difficult to 
+see how four mobile providers will survive in a market that 
+has seen one of its duopolists unable to profit in the three 
+years it has had a network.  A failure in this sector will 
+not be a disaster, however.  The outright collapse of an 
+operator is less likely than the sale or merger of a less 
+successful mobile service to a more potent competitor.  The 
+outcome should be a reduction Fastlink,s dominance and 
+creation of a more level playing field that will stimulate 
+competition, benefiting the Jordanian consumer and the 
+economy as a whole.  Meanwhile, the process is whetting 
+appetites for the end of Jordan,s fixed-line monopoly on 
+January 1, 2005 (septel). 
+ 
+¶18. (SBU) Conspicuous by its absence in this controversy is 
+any strong indication of GOJ ofiicials' interference or 
+favoritism in the decision to bid.  There has been no strong 
+governmental pressure to protect the interests of the 
+incumbents, including NewGen; neither is there any convincing 
+evidence that any particular potential bidder has an "inside 
+track."  While this is an encouraging sign of the 
+independence of the TRC and of maturity on the part of other 
+actors in the GOJ, it is not necessarily a harbinger of the 
+end to political involvement in commercial matters in Jordan. 
+ Both Fastlink and MobileCom are now primarily foreign-owned 
+without a strong and involved local partner to call in 
+political pressure on their behalf.  Even NewGen - which 
+received a license with very good terms in a backroom deal 
+early this year - is primarily funded by Saudis and locally 
+partnered with the Masri family, a clan that no longer 
+exercises the influence it held under the previous king. 
+GNEHM

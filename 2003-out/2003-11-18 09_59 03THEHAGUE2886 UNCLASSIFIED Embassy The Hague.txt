@@ -1,0 +1,225 @@
+This record is a partial extract of the original cable. The full text of the original cable is not available.
+
+180959Z Nov 03UNCLAS SECTION 01 OF 03 THE HAGUE 002886 
+ 
+SIPDIS 
+ 
+SECSTATE FOR ECA/PE/V/F/E - EILEEN CONNOLLY; 
+BRUSSELS FOR CSABA CHIKES; INFO EUR/PD-BRIAN GUSS 
+ 
+E.O. 12958: N/A 
+TAGS: KPAO OEXC SCUL NL
+SUBJECT: EU Subregional Voluntary Visitor Program on 
+Terrorist Financing 
+ 
+REF: various emails Crouch/Chikes/Connolly 
+ 
+¶1. Post is pleased to confirm the nomination of the Dutch 
+participant in the EU Subregional Voluntary Visitor 
+program on Terrorist Financing, Mr. Alle T.S. Dorhout, 
+deputy head EU external relations division of the European 
+Integration Department of the Ministry of Foreign Affairs. 
+ 
+¶2. It is understood that the six-day program will begin in 
+Washington DC on January 26, 2004, with arrival of the 
+participants scheduled for January 25th. The program will 
+end in New York on Friday, January 30. ECA/PE/V/F/E will 
+provide six days per diem and U.S. domestic airfare and 
+ground transportation. The international airfare will be 
+paid by Mr. Dorhout. 
+ 
+¶3. START FIXED-FORMAT TEXT (PLEASE DO NOT EDIT): 
+: The following data is in a fixed format which enables 
+: automated processing in Washington and should not be 
+: edited except by means of the Post-EVDB software. 
+EXPORT-SOURCE: POST-EVDB 
+VERSION: 3.0.7 
+POST-EMAIL: dankelmanE@state.gov 
+TRANSMITTING-POST: PAS The Hague 
+TRANSMITTING-POST-ID: 4276 
+EXPORT-TYPE: BIO DATA 
+START NOMINATION: 
+ECA-OFFICE: E/VFE 
+PROG-AGENCY-NAME: 
+POST-PROJ-ID: 142 
+ECA-PROJ-NO: 
+PROJ-NAME: Terrorist Financing 
+START MEMO PROJ-DESC: 
+ 
+END MEMO PROJ-DESC: 
+PROJ-TYPE: Sub-Regional 
+PROG-TYPE: Voluntary Visitor 
+FY: 2004 
+DEPART-POST: 01/25/2004 
+SESSION-DATE: 01/26/2004 
+RETURN-POST: 01/30/2004 
+NO-OF-PART: 1 
+RANK-ORDER: 0 
+START MEMO POST-OBJ: 
+ 
+END MEMO POST-OBJ: 
+START MEMO POST-RCMD: 
+ 
+END MEMO POST-RCMD: 
+ECA-OFFICE-ID: 1033 
+PROG-AGENCY-ID: 
+PROJ-TYPE-ID: SRP 
+PROG-TYPE-ID: 30 
+NOMINATING-POST-ID: 4276 
+FUNDING-CNTRY-ID: 29321 
+STATUS: N 
+ORIGINATOR: P 
+SUBJ-DISC: Terrorism 
+START BIO: 
+PREFIX: Mr. 
+F-NAME: Alle 
+M-NAME: T.S. 
+L-NAME: Dorhout 
+SUFFIX: 
+POSITION-CODE: 114 
+PRINCIPAL?: Yes 
+M-ADDR1: Ministry of Foreign Affairs 
+M-ADDR2: P.O. Box 20061 
+M-ADDR3: 
+M-CITY: 2500 EB The Hague 
+M-STATE: 
+M-CNTRY: Netherlands 
+M-ZONE: 
+M-ZIP: 
+M-PHONE: +31-70-348-5819 
+M-FAX: 
+M-EMAIL: alle.dorhout@minbuza.nl 
+M-CNTRY-ID: NL 
+M-ADDRTYPE: B 
+GENDER: M 
+DOB: 09/18/1966 
+MAR-STAT: M 
+BIRTH-CITY: Arnhem 
+BIRTH-CNTRY: Netherlands 
+CITIZ-CNTRY: Netherlands 
+RES-CNTRY: Netherlands 
+START MEMO POSITION: 
+Deputy Head EU External Relations Division, European 
+Integration Department, Ministry of Foreign Affairs 
+END MEMO POSITION: 
+START MEMO OTHER-POSITIONS: 
+Member, Advisory Committee on Foreign Affairs, Liberal Party 
+(VVD) 
+END MEMO OTHER-POSITIONS: 
+START MEMO PREV-POSITIONS: 
+Since 1994, Ministry of Foreign Affairs 
+September 1999 - September 2003  Security Policy Department, 
+senior policy advisor, coordinator intelligence services, 
+terrorism, European security and defense policy, European 
+Convention, conflicts in Afghanistan and Iraq; 
+September 1997 - September 1999  Second Secretary Dutch 
+Embassy Nairobi, emergency aid and political reporting 
+Somalia and South Sudan; 
+September 1996 - September 1997  Chef of Cabinet European 
+Commission Monitoring Mission during EU Dutch Presidency, 
+residing in Sarajevo; 
+July 1994 - September 1996  European Affairs Department, 
+policy advisor on former Yugoslavia; 
+ 
+ 
+END MEMO PREV-POSITIONS: 
+START MEMO US-TRAVEL: 
+Holidays 
+END MEMO US-TRAVEL: 
+START MEMO OTHER-TRAVEL: 
+West Africa; Soviet Union, Middle East, Australia (working 
+holiday) and Asia, Nairobi, Europe 
+END MEMO OTHER-TRAVEL: 
+START MEMO EDUCATION: 
+MA East European History, University of Groningen, 1992 
+(Thesis: Dutch-Russian diplomatic relations 1942-1946) 
+Diplomatic course, Ministry of Foreign Affairs (1994) 
+END MEMO EDUCATION: 
+START MEMO MEMBERSHIPS: 
+Member of the Liberal Party (VVD); 
+Member employees council MFA 2000-2002 
+END MEMO MEMBERSHIPS: 
+START MEMO PUBLICATIONS: 
+none 
+END MEMO PUBLICATIONS: 
+START MEMO SPEC-CONSID: 
+ 
+END MEMO SPEC-CONSID: 
+FIRST-LANG: Dutch 
+ENGL-READ: 4 
+ENGL-SPEAK: 4 
+ENGL-COMP: 4 
+START OTHER-LANGS: 
+OTHER-LANG: French 
+OTHER-LANG-ID: FR 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START OTHER-LANGS: 
+OTHER-LANG: German 
+OTHER-LANG-ID: GM 
+READ: 3 
+SPEAK: 3 
+COMP: 3 
+END OTHER-LANGS: 
+START MEMO NOM-POST-OBJ: 
+ 
+END MEMO NOM-POST-OBJ: 
+START MEMO NOM-POST-RCMD: 
+ 
+END MEMO NOM-POST-RCMD: 
+START MEMO VIS-OBJ: 
+ 
+END MEMO VIS-OBJ: 
+START MEMO VIS-REC: 
+ 
+END MEMO VIS-REC: 
+NOMINATING-OFFICER: Todd Kushner 
+START MEMO NOMINATING-JUSTIFICATION: 
+Alle Dorhout is coordinator for Dutch efforts in the EU 
+terrorist financing clearinghouse. He will lead Dutch 
+efforts to reform the clearinghouse during the Dutch EU 
+presidency. Alle is new to the job (since September) and has 
+a lot to learn about the terrorist assets world. This 
+program will be perfect for him. He has been to the United 
+States on vacation but not for business or study. 
+END MEMO NOMINATING-JUSTIFICATION: 
+NOM-OFF: ECON 
+SPEAKER?: No 
+NOTIFY-EMB: No 
+MEDIA?: No 
+HOME-STAY: No 
+HOME-HOSP?: No 
+E-I-TYPE: 
+NOMINEE-ID: 310 
+PERSON-ID: 254 
+BIRTH-CNTRY-ID: NL 
+CITIZ-CNTRY-ID: NL 
+RES-CNTRY-ID: NL 
+FIRST-LANG-ID: DU 
+E-I-TYPE-ID: 
+NOM-POST-ID: 4276 
+NOM-FUNDING-CNTRY-ID: 29321 
+NOM-STATUS: N 
+DS2019-ACTION: 1 
+DS2019-SUBJECT: 43.0103 
+SPONS-FUNDS: 2000 
+SPONS-AGENCY1: 
+USGOVT-AGENCY1: 
+US-AGENCY-AMT1: 0 
+USGOVT-AGENCY2: 
+US-AGENCY-AMT2: 0 
+INTL-ORG1: 
+INTL-ORG-AMOUNT1: 0 
+INTL-ORG2: 
+INTL-ORG-AMOUNT2: 0 
+VIS-GOVT-AMT: 1500 
+COMMISSION: 0 
+OTHER-AMOUNT: 0 
+VIS-AMOUNT: 0 
+VIS-CAT: 5 
+END BIO: 
+END NOMINATION: 
+END FIXED-FORMAT TEXT: 
+Sobel
