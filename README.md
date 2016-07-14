@@ -9,8 +9,7 @@ Darrell Vermilion
 These are the source and text files for the INFO 256 Final Project of Fall 2013.
 
 The goal of this project is to use NLP techniques to analyze a series of the Wikileaks cables in 
-an effort to glean some information that should lead to correlations between word/topic distributions
-and specific events in time. 
+to uncover correlations between word/topic distributions and specific events in time. 
 
 This directory should contain the following:
 
